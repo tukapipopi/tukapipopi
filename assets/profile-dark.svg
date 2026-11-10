@@ -1,136 +1,559 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 472" width="860" height="472" role="img" aria-label="tukapipopi profile">
-<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}.a{font-size:9px;fill:#c9d1d9}.i{font-size:13px}.k{fill:#ffa657}.v{fill:#a5d6ff}.d{fill:#6e7681}.t{fill:#c9d1d9}.b{font-weight:700}</style>
-<text x="16.0" y="27.5" class="a" textLength="253.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">          ,-       ,       ,,,,,,--&lt;&lt;&gt;&gt;&gt;     ,,</text>
-<text x="16.0" y="36.5" class="a" textLength="297.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      &lt;ux%%{i%} &gt;%%%  ,,n%%%%gg@_""%%%%%%%%%%%% ,-,,&lt;%.</text>
-<text x="16.0" y="45.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     %%%%@@%%%%%%%%%%%%%@g@@BBBBBNggg_'"%%%%%%%%%%%%%%\&lt;%%,</text>
-<text x="16.0" y="54.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    %%%@@@@@@%%%%%%@@g@BBBBBBBBBBBBBBBB@gg@%%%%%%%%%%%%"'%"</text>
-<text x="16.0" y="63.5" class="a" textLength="313.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   '%%@@@@@%%%%%}\@BBBBBBgg@BBBBNNNNBNNNNNBNg%%%%%%%%@%  %</text>
-<text x="16.0" y="72.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   /@@@@@@@%%%%%gBBBBBBBBBBBBNNNBBNBBBBNNNBBBN@%%%%%%%%%L%;</text>
-<text x="16.0" y="81.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   %@@%@@@@%//%@BBBBBBBBBBNNNNNNNNNNNNNNNNNNBBBN@%%%%%%%@%%;</text>
-<text x="16.0" y="90.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   |%%@@%@%%%%@BBBBBBBBBNNNBNNNNNNNBNBNNNNNNNNBBB@"%%%%%@%%(</text>
-<text x="16.0" y="99.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ,%%%%%@%%%%%@BBBBBBBNNNNBNNNNNNBBBNNNNNNNNNNNNNBpi%%%%%@%.</text>
-<text x="16.0" y="108.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  %/i%%@%%%%%@NBBBBBBNNNNNNNNMMBNNMPMMBBNNNNNNNNNBB@%%%%%%%L</text>
-<text x="16.0" y="117.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    %%@%@@%%%@BBBBBNNBBBNM"           "RQNBNNNBBNBN@%%%%%%%%</text>
-<text x="16.0" y="126.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    %%@%@%%%%BBBNBBBNBB"                ?NZBNNBNNNNU%%%%%@%%</text>
-<text x="16.0" y="135.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    %%%@@%%%%BBNBBBBBW"                   RBBBBNBNR%%%%%%%%(</text>
-<text x="16.0" y="144.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   %%%@@%%%%@NBBBQgB@F                     B/BNBBR,%%%%%%%%'</text>
-<text x="16.0" y="153.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  i%%%@%%%%"BBNBBBB@R                       BgB@@B/%% ,%%%%</text>
-<text x="16.0" y="162.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    {%%%%"gBNBNBNBBR                       _BC3BNBN %%%%%%}</text>
-<text x="16.0" y="171.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    i%%%@BMBNBNNBWB    ggg@NNNg        _gggg@g/MNBNg%%%%%@(</text>
-<text x="16.0" y="180.5" class="a" textLength="340.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    %%%%?gBBBNNBBNC  %MMMZZZg_T"      &gt;MMTTPTMKBNNNB@%%%@%/ ,,,</text>
-<text x="16.0" y="189.5" class="a" textLength="340.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    }%/  gBMQBBBBE    g#"    79g      _p       8BNB@B\%%@@@%@@/</text>
-<text x="16.0" y="198.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    %} WMQBWBBBNNL   @R  gggg  ^E    %R_g@g@_  3@BBE^/%%@@%%@"</text>
-<text x="16.0" y="207.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ?%  gRWBNBBMBL   8  uBNBBK  3    "\B_BNK@K /NNBBi%%%@@%%C</text>
-<text x="16.0" y="216.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   ,%% gBRgB@M" B"   $   BBNM   8   %K 3QZTT"   BWDNKi%@%%@@%%</text>
-<text x="16.0" y="225.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   %%%nR%%"g@/_g3/   /g   T"  _@R    B   T7f    I B %%@%%@%%%"</text>
-<text x="16.0" y="234.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   %%%%%%@@BB%RQ"E    '9mL,Lw@BF     9~         $-Ki%%@%@@@%%\</text>
-<text x="16.0" y="243.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   %%%%%@BBMM@NB 7         @WF       ?K         E@%%%%@@@@@%/</text>
-<text x="16.0" y="252.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  i%%%%"gB"%%B/?K             _p/     MWy      @L# %%@@@%@S'</text>
-<text x="16.0" y="261.5" class="a" textLength="340.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  %%%%%UR,,%%/N/             @B"___   _ E      g@"i%%%%%@%%%%%;</text>
-<text x="16.0" y="270.5" class="a" textLength="340.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> i%%%%%&gt;u%%2%% N_            B3wBNB__WN@Kg     BBx%%%%@@%%@%%%%</text>
-<text x="16.0" y="279.5" class="a" textLength="340.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> %%%%%%%%%{%%%%%ZDp         d"    'QT    3@   -R/%%%%@%%@%@%%%/</text>
-<text x="16.0" y="288.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> %%'i@%%%%@@@%%%%%B                Ru __  B   @M%%%%@%@@@@%%%"</text>
-<text x="16.0" y="297.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    @%@@%%%%%%@@%%HL            gWQMW@BBg U"  g }%%@@@%%%%%/</text>
-<text x="16.0" y="306.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    S@%%@%%%@@@@@%%K       @" _@@@BBMB@g@@_   Ei%%%%%%%%%%%</text>
-<text x="16.0" y="315.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    i%%%@@@%%U@@@%\E       $ #MNB@@RBBZBB@Bp  D%%%%%%%%%%%%&gt;</text>
-<text x="16.0" y="324.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    %%%%@%%%%%%@%%%E       "     '7MgBZMBB@K g%%%%%%%%%%%%%%</text>
-<text x="16.0" y="333.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    '%%%%%%%%%%%%%@E  a_         _gLZMW&amp;DWF_W\{%%%%%%%%%%%%,</text>
-<text x="16.0" y="342.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ,,&lt;%%%%%%%%%%%%/@L   9q_      ^T   7H-  gR%%%%%%%%%%%%%@%%</text>
-<text x="16.0" y="351.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  %%%%%%%%%}"%/g@gR      7Hq_           _WB%%%%%%%%%%%%%%@%/,</text>
-<text x="16.0" y="360.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ,i%%%%/"__a"3@          7Mq_      _pP E?%%%%%%%%%%%%%%%%%</text>
-<text x="16.0" y="369.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ?%""_gwFZK   ^W_           7PHmm#T7  -D%%%%%%%%%%%%%%%%%'</text>
-<text x="16.0" y="378.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  pwm#f""   ^g     7g               \@%  qM%%%%%%%%%%%%%%%%,</text>
-<text x="16.0" y="387.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             '9wg_   9g         _   @K   d@@@g"%%%%%%%%%%%%%%.</text>
-<text x="16.0" y="396.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                 3    '9q_      7PfF"     B_7WN %%%%%}!%%%%%%\</text>
-<text x="16.0" y="405.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                g K_     7W_               PN@MBwZ@%%%%%2%%%%/</text>
-<text x="16.0" y="414.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                3Mq_Pq_    '9&amp;g_            @R 9, ^9W@"%%%%%%</text>
-<text x="16.0" y="423.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                 B_7"""        7Hwg__      _#   E    ^9@i%%/</text>
-<text x="16.0" y="432.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                  7         __     "T""hhf""   #       'N_'</text>
-<text x="16.0" y="441.5" class="a" textLength="313.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                             7mq_      __  g~            9</text>
-<text x="16.0" y="450.5" class="a" textLength="237.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                            gwwL'7%w__gF7WP"</text>
-<text x="392.0" y="37.2" class="i k b" textLength="132.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">tukapipopi@github</text>
-<text x="532.4" y="37.2" class="i d" textLength="312.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">----------------------------------------</text>
-<text x="392.0" y="57.6" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="57.6" class="i k" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">OS</text>
-<text x="423.2" y="57.6" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="438.8" y="57.6" class="i d" textLength="358.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">..............................................</text>
-<text x="805.4" y="57.6" class="i v" textLength="39.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">macOS</text>
-<text x="392.0" y="78.0" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="78.0" class="i k" textLength="46.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Uptime</text>
-<text x="454.4" y="78.0" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="470.0" y="78.0" class="i d" textLength="163.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.....................</text>
-<text x="641.6" y="78.0" class="i v" textLength="202.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">5 years, 0 months, 13 days</text>
-<text x="392.0" y="98.4" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="98.4" class="i k" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IDE</text>
-<text x="431.0" y="98.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="446.6" y="98.4" class="i d" textLength="304.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.......................................</text>
-<text x="758.6" y="98.4" class="i v" textLength="85.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Claude Code</text>
-<text x="392.0" y="118.8" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="392.0" y="139.2" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="139.2" class="i k" textLength="70.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Languages</text>
-<text x="477.8" y="139.2" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="485.6" y="139.2" class="i k" textLength="85.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Programming</text>
-<text x="571.4" y="139.2" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="587.0" y="139.2" class="i d" textLength="140.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">..................</text>
-<text x="735.2" y="139.2" class="i v" textLength="109.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">TypeScript, C#</text>
-<text x="392.0" y="159.6" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="159.6" class="i k" textLength="70.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Languages</text>
-<text x="477.8" y="159.6" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="485.6" y="159.6" class="i k" textLength="31.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Real</text>
-<text x="516.8" y="159.6" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="532.4" y="159.6" class="i d" textLength="241.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">...............................</text>
-<text x="782.0" y="159.6" class="i v" textLength="62.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Japanese</text>
-<text x="392.0" y="180.0" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="392.0" y="200.4" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="200.4" class="i k" textLength="39.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Stack</text>
-<text x="446.6" y="200.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="454.4" y="200.4" class="i k" textLength="62.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Frontend</text>
-<text x="516.8" y="200.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="532.4" y="200.4" class="i d" textLength="156.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">....................</text>
-<text x="696.2" y="200.4" class="i v" textLength="148.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">React, Next.js, MUI</text>
-<text x="392.0" y="220.8" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="220.8" class="i k" textLength="39.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Stack</text>
-<text x="446.6" y="220.8" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="454.4" y="220.8" class="i k" textLength="54.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Backend</text>
-<text x="509.0" y="220.8" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="524.6" y="220.8" class="i d" textLength="202.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">..........................</text>
-<text x="735.2" y="220.8" class="i v" textLength="109.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">NestJS, Prisma</text>
-<text x="392.0" y="241.2" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="241.2" class="i k" textLength="39.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Stack</text>
-<text x="446.6" y="241.2" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="454.4" y="241.2" class="i k" textLength="62.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Database</text>
-<text x="516.8" y="241.2" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="532.4" y="241.2" class="i d" textLength="171.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">......................</text>
-<text x="711.8" y="241.2" class="i v" textLength="132.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PostgreSQL, MySQL</text>
-<text x="392.0" y="261.6" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="261.6" class="i k" textLength="39.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Stack</text>
-<text x="446.6" y="261.6" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="454.4" y="261.6" class="i k" textLength="39.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Infra</text>
-<text x="493.4" y="261.6" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="509.0" y="261.6" class="i d" textLength="179.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.......................</text>
-<text x="696.2" y="261.6" class="i v" textLength="148.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">AWS, Docker, Ubuntu</text>
-<text x="392.0" y="282.0" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="392.0" y="302.4" class="i t" textLength="78.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- Contact </text>
-<text x="470.0" y="302.4" class="i d" textLength="374.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">------------------------------------------------</text>
-<text x="392.0" y="322.8" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="322.8" class="i k" textLength="46.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">GitHub</text>
-<text x="454.4" y="322.8" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="470.0" y="322.8" class="i d" textLength="288.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.....................................</text>
-<text x="766.4" y="322.8" class="i v" textLength="78.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">tukapipopi</text>
-<text x="392.0" y="343.2" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="392.0" y="363.6" class="i t" textLength="117.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">- GitHub Stats </text>
-<text x="509.0" y="363.6" class="i d" textLength="335.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">-------------------------------------------</text>
-<text x="392.0" y="384.0" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="384.0" class="i k" textLength="101.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Contributions</text>
-<text x="509.0" y="384.0" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="524.6" y="384.0" class="i d" textLength="179.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.......................</text>
-<text x="711.8" y="384.0" class="i v" textLength="132.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1,510 (last year)</text>
-<text x="392.0" y="404.4" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="407.6" y="404.4" class="i k" textLength="93.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Member since</text>
-<text x="501.2" y="404.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text>
-<text x="516.8" y="404.4" class="i d" textLength="257.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.................................</text>
-<text x="782.0" y="404.4" class="i v" textLength="62.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Oct 2021</text>
-<text x="392.0" y="424.8" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">.</text>
-<text x="392.0" y="445.2" class="i k" textLength="7.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&gt;</text>
-<rect x="407.6" y="434.2" width="7.8" height="14" fill="#a5d6ff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 486" width="860" height="486" role="img" aria-label="tukapipopi profile" xml:space="preserve">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}
+.a{font-size:9px;fill:#c9d1d9}.n{font-size:9px;fill:#c9d1d9}.i{font-size:13px}.k{fill:#ffa657}.v{fill:#a5d6ff}.d{fill:#6e7681}.t{fill:#c9d1d9}.b{font-weight:700}
+.l,.r,.c{animation:in .08s linear both}
+.f{opacity:0;animation:fr 0.16s steps(1)}
+.tc{opacity:0;animation:tc 1.00s steps(1) 0.35s}
+.tx{animation:tx 0.78s steps(6) 0.35s both}
+.bl{animation:bl 1.1s steps(1) infinite}
+.pm{animation:pm 9s steps(1) 4.24s infinite}
+.pb{animation:pb 9s steps(1) 4.24s infinite}
+.lid{opacity:0;animation:lid 9s steps(1) 4.24s infinite}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes fr{from{opacity:1}to{opacity:1}}
+@keyframes tc{from{opacity:1}to{opacity:1}}
+@keyframes tx{from{transform:translateX(0)}to{transform:translateX(46.8px)}}
+@keyframes bl{0%{opacity:1}50%{opacity:0}}
+@keyframes pm{0%{transform:translate(0,0)}6%{transform:translate(-11px,-3px)}20%{transform:translate(8px,-3px)}34%{transform:translate(-11px,4px)}44%{transform:translate(0,0)}66%{transform:translate(8px,4px)}78%{transform:translate(-5px,0)}90%{transform:translate(0,0)}}
+@keyframes pb{0%{opacity:1}56%{opacity:0}58%{opacity:1}93%{opacity:0}95%{opacity:1}}
+@keyframes lid{0%{opacity:0}56%{opacity:1}58%{opacity:0}93%{opacity:1}95%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.f,.tc,.lid{display:none}}
+</style>
+<g class="f" style="animation-delay:2.45s">
+<text x="16.0" y="34.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">%1#1 @ @ # &lt;+%%     # 1     &amp;- @/1/?@@   &lt; $#-&lt;  &lt;    &gt;  +&amp;+&amp;0\</text>
+<text x="16.0" y="43.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">%    &lt;?@#0  &lt;\# ?/&amp;~0    ~* ~  \  +? \# &amp;  @%   \  % =  &gt; \</text>
+<text x="16.0" y="52.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> % $  #~#*     ?~   $ -  %#+~\  /@  &amp;&gt; ~ &amp;0   &gt;%  - &amp; 0 $ &lt; * %\</text>
+<text x="16.0" y="61.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  =    &amp;=/ 0=~@ + &lt; %        % 1 0~~ =    *= ?#  # ?~= @ ~\?&amp;? %</text>
+<text x="16.0" y="70.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">&lt;//* &lt;   -=\0     1 - + &amp;  $ @* ~1   + 0?@  ##     %  *+   /   +</text>
+<text x="16.0" y="79.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">&gt; 0 + /&lt;    -    01$  &amp; &lt; @#     ?&lt;@* 1 0      ?   \ &amp;1 #@$%+</text>
+<text x="16.0" y="88.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">-==+*+# + # @ 0 \=  \*?&lt;@=-\\&lt;&amp;  0&lt;  ~&lt; %? &amp;  * % 1&lt; &gt;&lt;$?$ \ $</text>
+<text x="16.0" y="97.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">%/ ~ @ ?  \/$ =\&amp;/= $ &lt;&lt;  1    -~? \ -?+@ =\  0 1*~&amp;1  $      1&gt;</text>
+<text x="16.0" y="106.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">  *  &amp;&lt;? +* 1&amp;01      #   % &gt;-  -&gt; 1@&gt;1?   *&amp;   &lt; 0&gt;  1%/=$  %</text>
+<text x="16.0" y="115.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  * #% # &gt; % &gt;    &amp;/ &lt; $   ?=*$       =@\- &lt;@     %+=  -@-/\ 0@</text>
+<text x="16.0" y="124.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">#  $&lt;@     +1 &amp;    @0/?  \   /   ?~  * -    1        10  &gt;1</text>
+<text x="16.0" y="133.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">@&lt;  &gt;?0# ?  %?  0 -?$# &lt;  /1      % &gt; &lt;  0&amp; % ??+&lt;=&lt;\~ *&amp;\ ?#$ 0</text>
+<text x="16.0" y="142.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">~ * *   1 1  &lt; + $+1   ~   %0  $ /&lt;?$%    +   0/#+$%%  $~ ?*  +</text>
+<text x="16.0" y="151.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">-&amp;-  ~1&amp;+@  *@  - ?  \  $ \   &lt;  #     @&amp;-0 $  # #+$0&gt;  &lt;&gt; &lt; ~\&gt;</text>
+<text x="16.0" y="160.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs"> #&gt; &lt;         &amp;  %  @ $   \    +* &lt;\+/ *0@ 1     =  %# %  $\&lt;</text>
+<text x="16.0" y="169.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">?-- +   0?   $   &lt; &gt;    ~ \@  -     - *1  10 # = *&amp; @  0 =#  * 1</text>
+<text x="16.0" y="178.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">&lt;   1 $ @+? &lt;   @\$+ 0%* +&lt;  $      ~#    @ #   &lt;$ =\$  +1-1</text>
+<text x="16.0" y="187.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">? &gt;      / &lt;   ~ 1~  =+1@%?~\%# %    -1*#\ ?  &gt; @  %&lt;&amp;     +  &lt;</text>
+<text x="16.0" y="196.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">   - % 1 \  1/&amp;-       @/ &gt;  / $ \  + &amp;#= = $#   ~ ~ *  \ #@  /</text>
+<text x="16.0" y="205.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> =\ ? /+$  =  =  %  1    + *1\ \?01  @~1 &gt; +  / &lt;    * -    @\ &gt;</text>
+<text x="16.0" y="214.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">   &amp;0 0&lt;  1  %0 0/&gt; / $ / @~\    =  -   ? +   &amp;       *        =</text>
+<text x="16.0" y="223.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">&gt;\&gt;?    / $*  % # -\&amp;&gt;&lt;  0 #/#? + ~  * @= \1     &gt;&lt;         /</text>
+<text x="16.0" y="232.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> &lt;&lt;~ +  ?  &amp;&amp;   \ % \ @-  &amp;%~  *&amp;= =   &gt;   -   +     $  $  &lt;   1</text>
+<text x="16.0" y="241.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> / + **1 &gt; ~=&lt;  -&gt; ** ?/ //$    &gt; % ?     * *  @=&gt;% / * 1- &amp;  *</text>
+<text x="16.0" y="250.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  \  - =   * $\ @#   ~ %\&amp;@ %+?#+1 **  #1    &amp;=    ~+#     @~ \</text>
+<text x="16.0" y="259.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">+ 0?@    ?       #=  $     &lt;   /  - # -*$ @ $+1 %&lt;/ &amp;&amp;=    ~   &lt;</text>
+<text x="16.0" y="268.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">     &lt;  /= &lt;    @  \ &amp;  \ 1~-     =/?*  /=     &lt;#  \@&gt; &amp;   &lt;&amp;~ *</text>
+<text x="16.0" y="277.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">@0 = +    &lt;@   @ /$ =    $+/ *  ~=  1  %  *&amp;*~* -  *    #\$% /%</text>
+<text x="16.0" y="286.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> \* &lt; # @@$ \%$        ? +   1* 1+&gt;0   %     0   - &amp; * ~+ -? @</text>
+<text x="16.0" y="295.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">&lt;*    1  \&amp;    &gt;\+  / @  ~+ ~  *0    -=*   @  @@?   &amp;      *-%</text>
+<text x="16.0" y="304.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">=  @%&amp; ~ &lt;* ?# $?? *\ / + &lt;&gt; &amp; #$$=#=~ + \   &amp;$ 1 /   ~ *-+ &amp;0</text>
+<text x="16.0" y="313.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">0=  =&gt;~1@&gt; = #  @  +   ~ @ =~@?0&amp;+*%\\*~&gt;$ &gt;?  -  -@  &gt;@ &amp;+#@ /\</text>
+<text x="16.0" y="322.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">&gt;  @@  ?   0 %  ?*$&gt; 10-$  =1   - ~+#  @&lt;~?\  1=          &gt;&gt; +</text>
+<text x="16.0" y="331.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">&lt;   **~=  / += /\ +       &amp; /-/ &amp;   $$ +0\1&lt;??-# $ \    @~+ \</text>
+<text x="16.0" y="340.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">@ -    &amp;  1~ $  =*@  +&amp;*  $  &gt; 0 &gt;*+&gt;-@ &gt;?~ @@&gt;   ? &gt;0\/  &amp;0   ~</text>
+<text x="16.0" y="349.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs"> //    /&lt;1-= %  ?@ -11&amp;&amp;*  =  &amp;% 1   0&lt;1  &lt;   *   &lt;  /   @ @</text>
+<text x="16.0" y="358.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> %#=\- ~     %% ~@  ? -&amp;   + 1-      ?  $ ~ %=?   -&amp;* \  *+ @~</text>
+<text x="16.0" y="367.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">#    &gt;0&amp;&amp;*~   =0   \ \%%#~ ? &gt;  @    1  @ @~%#&amp;&amp; 1     &lt;-=1 @*</text>
+<text x="16.0" y="376.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">~ #   %0 @1 \ $ @+=&lt;+1 - $    ~ + &gt;-  ~   /$ \+= \~  &amp;=% &gt;&amp;1 &amp;</text>
+<text x="16.0" y="385.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">\ ~ &lt; / 0  # //  $* +&lt;&gt;+1  ?   &lt;  ?  $ *  &gt;\  */   / 0&lt;  &amp;\&lt;/</text>
+<text x="16.0" y="394.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> &amp;&amp; ~&amp;  %  =*  / &amp;  1 @~+     / @#-  $   -?   + -* ?  \ %~ ##*0</text>
+<text x="16.0" y="403.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">%   &amp;#      #&amp; + #**  * &gt; + \?  =  +@&amp;- + +#01&lt;&gt; &gt; &gt; *  \0  -  &lt;</text>
+<text x="16.0" y="412.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  $  @@-&amp;@ \    $$+?  =  *= %  01      #~ &lt; ~@ &gt;    #* &amp;$=  /  &gt;</text>
+<text x="16.0" y="421.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">    &gt; *%  &amp;*&amp; #~*&gt;   &lt;         \  &amp;%     +  @0 $0+#~*10 %$*  &gt;</text>
+<text x="16.0" y="430.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> ~#=         # #%/$&amp;$0  +   - 1  /1 \   &lt; @ #       &gt;0  1    $</text>
+<text x="16.0" y="439.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> ?1  /   &amp; &lt;        $ \$- = 0  /&lt;-  %  0  ~ % &lt;  = \ 0  #    &lt; @</text>
+<text x="16.0" y="448.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> &lt;+ &gt; &lt;+  $  &lt;&gt;#/ ?@    =+  &gt;&lt;   &lt; ~/   %= 0     &gt;   +*$ @#   \</text>
+<text x="16.0" y="457.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> ~  /  ? 1 -  -   @* ~ @/ 1/ $$       / &gt; + ?   0          1  0</text>
+</g>
+<g class="f" style="animation-delay:2.61s">
+<text x="16.0" y="34.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">%    ?  - , %-%    -       */,0 \ $~   %= + ~ ? +  /=       &lt;*</text>
+<text x="16.0" y="43.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">?     ~$ % @    0*      n==$ =0    ?   #   0+1*    * #     1</text>
+<text x="16.0" y="52.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> &gt; + &gt;@##0-     &amp; $ $% #*$    B  /-~ %  *-&lt;1   %      =-+   # =</text>
+<text x="16.0" y="61.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">&gt;?  -   *  @ &amp;=~#\&gt;1/1-    $%/@     /#  %#%1~1   @@ ~  +$  0</text>
+<text x="16.0" y="70.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs"> ~   %/   ~   ?  #&lt;$$ *#  +00&lt;&amp;-/  &amp;# #  0   \=0   = -1~  = @</text>
+<text x="16.0" y="79.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> &amp; ~       &gt; @ &amp; B1#@+#? &lt;#? %  &gt; &amp;+ ? \@$ @  \  0   % %   $1$ $</text>
+<text x="16.0" y="88.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">/ @ @? 0  +0  ~ +/   0&gt;+   -@    %$=--  0 + &amp;B*  /-0??~ @    -#\</text>
+<text x="16.0" y="97.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">&lt;*#&lt;~=    &lt;/+ @  &gt;&lt;    -&lt;? =    0-@$=% %&gt; N\%~  %    +? @ @</text>
+<text x="16.0" y="106.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> %&amp;??&lt;     % 0 1 $ + #&lt;=?   @   ~ /#1  +*% NN= + B  1=&lt; $&gt;&gt;    ~</text>
+<text x="16.0" y="115.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">?  ~i?% @ %$&lt;  =? ~10 ?&amp;&lt; $%@@   $/%  #  &amp; /+&gt; \=-%  *?# &lt; =   +</text>
+<text x="16.0" y="124.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">#     &gt;  ~\1+0 ~-  1  &gt;\0   \  *~ \      / 1@&lt;*$  ~ %   &gt; ~\\\-</text>
+<text x="16.0" y="133.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">#?  \ #&amp;     ? @\&lt; ~% $ %\     ?#&gt;  =@% ? ~  N ? ~\    &amp;     &gt;</text>
+<text x="16.0" y="142.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> ?#     1  1   &lt;*BB% &gt;\      $    @      %/ ?+? \ @@=-   %   ~&amp;%</text>
+<text x="16.0" y="151.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">&gt;$  %&lt;% \ @%=N@$~@ / @   -  &lt;  +  =     ~= \=   - ?#   / ? &amp;</text>
+<text x="16.0" y="160.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">  i @%@ &gt;\0@*  @ /&amp;? %%     &lt;  -     ~  \   = $&amp; B %  +     #</text>
+<text x="16.0" y="169.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">  -&lt;\ # ?*  ~  *%        = * +    -     &gt;  &lt; 0&amp;&gt;0* =0 -     +1</text>
+<text x="16.0" y="178.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">&amp;@@%  % % * 1  = \&gt;    ?&lt;g   #&amp;   #&amp;    % = @/&gt;@     &amp;0# ~~* ?</text>
+<text x="16.0" y="187.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  0    ~&lt;#  **#B\    % @M  &amp; &gt;         01   ~ ? 1$&lt;   0   *   #</text>
+<text x="16.0" y="196.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  &lt;     \=/M/  ?$  -?%=$     ? 1      /       @? \ $/  =@%=    $</text>
+<text x="16.0" y="205.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">% =  }@ %    ~  N    &amp;=  / 0  *0  + /    0 @$  *= 1 +   &gt;&gt;@   &amp;1</text>
+<text x="16.0" y="214.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> -- @    &gt;%#\   ~ 1  8   ?&gt;?  &lt;#&gt;   ~   #  \ + 1     0@ &lt; &gt; 1@</text>
+<text x="16.0" y="223.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   ?     1= &lt;        &amp;&amp;  *1/ -@  1   = &gt;  T ~   &lt; &lt;*# * -    &lt;</text>
+<text x="16.0" y="232.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">      1   # #@    * #   / 0      &lt;       ?  /   ==&amp;  #% - &gt;-</text>
+<text x="16.0" y="241.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">&lt; ##* &gt;   %  &amp;= ?    +'\&lt;   1  %       \ @$    &gt;~~ +1    &gt; /\</text>
+<text x="16.0" y="250.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  %&lt;1&amp; \/$% $  $      % /    =   ~  0 @     %    ?/ #&lt; @- 01 = &amp;</text>
+<text x="16.0" y="259.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">\   11%  *1\+/     ?=      $  _     &lt; % $     &gt;-L  =&lt; \&lt;%&gt;1&gt;</text>
+<text x="16.0" y="268.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  \ \&lt;   1 ~      *    &lt;   &lt; ?0      &gt;#   ?  1   ? $&lt;~ &amp;      $#</text>
+<text x="16.0" y="277.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">   $* +     ~&lt;-%&lt; &gt; -        -$   &lt;&amp;#%$$~       %0?% &gt; &gt;~     +</text>
+<text x="16.0" y="286.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">- +-~+@   +  ** +*$+0 &lt;? #    &gt;  &gt;1~ $ &amp;&amp;$   1&amp;%/+ &gt;# 1 -  = %</text>
+<text x="16.0" y="295.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">&lt;&gt;+   %- &lt; ?  0  */~     &lt;  1         $  ~  1   $   # &lt;  \   #</text>
+<text x="16.0" y="304.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">0$    **   * $    $/     =         #/\  ?  *@1#~  =+  &gt;+@~ =</text>
+<text x="16.0" y="313.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">*    / =  ?   - %@ +&amp;     1     +  * &lt;1 ~-   /? % - &gt; ~=\  -</text>
+<text x="16.0" y="322.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">   +-@ #? $\&gt;%    @+ \  #     ~    = %0  ~#&gt;*      &amp;&lt;&lt;&gt;&lt; ~&amp; @</text>
+<text x="16.0" y="331.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">*   $ \&gt;0&amp;      + &gt;-   # &amp;  -     /\-     &lt;1 0#@&gt;~  $ %&gt;&amp;+=~ &gt;0</text>
+<text x="16.0" y="340.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  ~   &gt;~ %@$ &lt;* &amp;   &gt;1##     &lt;&lt;  =   =%&amp; &gt;&gt;+\~=0* 0 @   ?      \</text>
+<text x="16.0" y="349.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    +  &gt;  ? #$\0 ?0\# *    %     =     =    %   0   0 $=*#&gt;0 $+</text>
+<text x="16.0" y="358.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> 0    *-  %      +       &gt;   =  $ 0 &gt;+&amp;=\    ==  &gt; #&amp; **%  \@  %</text>
+<text x="16.0" y="367.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">&gt; %   ?  $  ##   +         0+    1    %  ~/#%  ~?  ~&amp; -~   &gt;   =</text>
+<text x="16.0" y="376.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">\-&amp;     0= #0  -*/=%&lt;     ~#   &lt;0-m@&gt; ~&lt;  / *=&lt; #$ 0  =&amp; / $%~&lt;0</text>
+<text x="16.0" y="385.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  0 % &lt;   &amp;    &gt;$ =\0=?-     ~/  @   *\ @ 1+ % &gt; 1%&lt;=  ?+ *+</text>
+<text x="16.0" y="394.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">           $ 0 \&lt;=   + $ =%&lt;      ~     /d 1&gt;     =#-&amp;  @$ -#%*</text>
+<text x="16.0" y="403.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> 1  *% &amp;     &lt;  \%/    @*_   * 0- * &amp;      / ==&lt;  *  &gt;&gt;   0 &amp;-/#</text>
+<text x="16.0" y="412.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">%= ?    +  1 &amp; 1    ? &lt;   W   $ \       -   00%= /+/~ /$-&lt;-%   +</text>
+<text x="16.0" y="421.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> &amp;      @&amp; *  &amp;@&amp;M  \ +    1/\ ~  1     @  % /&gt;        &gt;  \ -~</text>
+<text x="16.0" y="430.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">     0 ?    &gt;~   &amp;~&amp;0  *\0%    &amp;H@  =      _@ @ &lt;     9   00+ $-</text>
+<text x="16.0" y="439.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">= ?   -&gt; &gt;                *     \ * ~ = /?\% \~ &amp;   +     + 1  ~</text>
+<text x="16.0" y="448.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">     * %       ?/            7#q  * &amp;1@        @-\       -    &lt;</text>
+<text x="16.0" y="457.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">?&gt;          /&amp;% /  ==  &gt;   1  1&lt; &lt;#\_&gt;  1$ @  #  ?&amp;  ?+  $&lt;  ?</text>
+</g>
+<g class="f" style="animation-delay:2.77s">
+<text x="16.0" y="34.5" class="n" textLength="297.0" lengthAdjust="spacingAndGlyphs">   * @\   \% = ~   ~/  +   0+%&lt;*\0=$1*-= +   *#1      %</text>
+<text x="16.0" y="43.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> -=   ?\&lt;%=1~0~ #$\&lt;  *@$-=1%*@$&amp;?#~1-~/@~~&gt;~&amp;1 &amp;*@#&lt;@#1    ?1 *</text>
+<text x="16.0" y="52.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">#\1* $0#&gt;&lt;@/+%?@$%01@-%%~&gt;*=+##$*0&lt;~11?&lt;&amp;-\/?&gt;1%&gt;1*$&gt;%&gt;&lt;/+&gt;  &amp;</text>
+<text x="16.0" y="61.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    %+%$$&lt;@&gt;1#1&gt;*~#+1??\*=*-&amp;&lt;1=0~*0$0*&lt;$1#%~*\%&gt;0+?&amp;%@0+&amp;* 1</text>
+<text x="16.0" y="70.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">   @&gt;&lt;0%$00=&lt;1%%}&gt;\/&lt;#0\&amp;0/&gt;$$/$N&gt;~\@*&amp;+/+=&lt;1/=%?*@?&lt;%% 1&lt;   \%</text>
+<text x="16.0" y="79.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">$  /&amp;$-@&lt;#@?&amp;%-~0B1B~&lt;@@B*#?&amp;=@=~\#&lt;&amp;&gt;~*?N$/~N@&amp;*?@/&gt;&lt;*%/%~ 1-</text>
+<text x="16.0" y="88.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  +1$\+??@+/-*$-?1-%&amp;0@~/@&amp;&amp;&lt;=//&gt;$%1\*@+#?\$B?*&gt;&lt;%-0/@%@&gt;=@=</text>
+<text x="16.0" y="97.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  &lt;%\?*@?\\*=11B~%$%&gt;&amp;~0&amp;0&amp;0N-%?/~&gt;%&gt;+N~-1N+@\/+*\$@%&gt;/-?\&amp;&amp; /1</text>
+<text x="16.0" y="106.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  ,$-*-+&gt;&lt;$&lt;%\1&amp;?+=B-&lt;&amp;+1-*N+1&gt;+@B-&gt;+&gt;--=1=&gt;&gt;-N1-@\i$%=*-&gt;-.</text>
+<text x="16.0" y="115.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  #=@?&gt;-$*%+~?10B&lt;~&lt;&lt;0N1&lt;&amp;0\%&lt;#\/~*P0=+~0+=1%@%#&amp;$&gt;%@&amp;/%@+$#</text>
+<text x="16.0" y="124.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">&lt;   $%\?*&amp;?%*@?B&amp;@=#1~*@0M&gt;\    &lt;    =~&gt;10B+NN%BN&lt;+&lt;*0-\&lt;@@&lt;</text>
+<text x="16.0" y="133.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  &lt; =%1&amp;@?%$%$~/&lt;&lt;B&amp;*+B+&amp;-  ~ +        &amp;&lt;01B00@&amp;0$&lt;1\=%#&gt;-$~</text>
+<text x="16.0" y="142.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    &lt;%&lt;@@@?%+*\N/?@-+&gt;/ 0   #  0&amp;     $   %$*%&lt;+\-+*-=%=%?-#</text>
+<text x="16.0" y="151.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">&amp; @?*$\0%$%-%N?B-$~-=~ ?       @    +$     -+%/-=R=+1&gt;@%?==&lt;</text>
+<text x="16.0" y="160.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  /&gt;$%=?\?@11%\=&gt;$B$=   &gt;&lt;    \  /&amp;       &gt; \1*?&gt;?~&amp;= =~%1/ @  ~</text>
+<text x="16.0" y="169.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> 1  #%%\00?/~&lt;\?\1B&lt;   ? +               = \B/&lt;0**1 %$%#-$} * #</text>
+<text x="16.0" y="178.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">   \&gt;1-1&lt;&lt;##%0%%&amp;0B+ - $&lt;~0~/#=   + %  %@+*g@g~M&amp;&amp;+-\\0//1/   0#</text>
+<text x="16.0" y="187.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">    %#%?1&gt;B1-\+?=-C  %+=~&amp;1~+&gt;**  0   $M+%~0\1&gt;*N*1/&amp;*&lt;=&lt;/@ //#%</text>
+<text x="16.0" y="196.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    &lt;\*  $\##?1=%0 -  ~\?    +9+ $ =  &lt;? 1/ *0 &amp;\~&lt;&amp;&amp;@%&gt;@%0\@01</text>
+<text x="16.0" y="205.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> 0 +&lt;? W++1+*\~N/$  &amp;&lt;1  *&gt;g*  /1 0 +1#0+~%&lt;1  &amp;&amp;?%1^0%111?$@&gt; =</text>
+<text x="16.0" y="214.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    &gt;/ &amp;~&gt;?&amp;?+%&lt;==   -  0&lt;NB+~$ 0 ~  ~\00B\=*&amp; /$%#@\&lt;0&amp;&amp;%1~+</text>
+<text x="16.0" y="223.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">   $// +/\=@&amp;?@ &gt;1   ?   %&lt;&lt;=   &amp;   &gt;+ ~+@~~/   ~/@$~i?&lt;/~=@%0=#</text>
+<text x="16.0" y="232.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> &amp; \$=n\&amp;=#\/-=-/*   &amp;\ &amp; =?&lt; &gt;&lt;-    ?   *#-   0* &amp; =-#$&lt;\@0/@</text>
+<text x="16.0" y="241.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %101&gt;+\&lt;B%&lt;#~&gt;\    @0=L?@#+0F     ~0    =    ?%@i1&gt;&gt;+#%&amp;11$</text>
+<text x="16.0" y="250.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">   $=\0#-*%~/=@&lt; # +       \&amp;+   ?  &amp;$K      *~ 1$\-+%?&gt;#-1%# &amp;</text>
+<text x="16.0" y="259.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  $&gt;?&amp;/"/&gt;&amp;&amp;&amp;%/0/   ?     -  -\+/     $&amp;y    # ?$/&gt;&gt;%&gt;\@#+-=</text>
+<text x="16.0" y="268.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> &amp;&amp;~&lt;&lt;-&amp;1/&lt;*+?&amp;1@     # &lt;    %&gt;=_?+   &gt;?~      &gt;-#%$%@%0+&amp;&gt;%&amp;?;</text>
+<text x="16.0" y="277.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> #=#+%1\@/##~$&amp;%@    \   ?  @&gt;=0&amp;&lt;0&amp;-&lt;*?%0     @&amp;?+&lt;\/@@%#$&amp;%&lt;&amp;</text>
+<text x="16.0" y="286.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> ~=1%?%*+%-@@\&lt;%&lt;$?    &amp; = &amp;&gt;?   \#&lt;0    %\$  &gt;~=#0&gt;&gt;-~=/-?@%*=</text>
+<text x="16.0" y="295.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">~/+1%?%*#$?%*1%?=%-%   ?           $u -&amp;  -   +=1?00-%&lt;+@*%1@\%</text>
+<text x="16.0" y="304.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> #  */$+##?&lt;&amp;~/&lt;-\%~  * / &gt;    $-~@?-~%&lt;/\?+  # +@&lt;\*=-1&gt;0%*&gt;+</text>
+<text x="16.0" y="313.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">*#  S/1\@&gt;#+/=1@~1*\#  &amp;   &lt;" =1@~#B%&lt;+?@@0   *&gt;#0&amp;+&gt;+%/%&gt;#    +</text>
+<text x="16.0" y="322.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   =\?=%@&amp;-/\@1&amp;@1*&amp;&gt;     -/ $M\&amp;+&gt;0$&amp;=/*@B*  %+%%0=&gt;/0*@0*&gt;</text>
+<text x="16.0" y="331.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %0%$0?@?%/%0%0%=      #+?   &amp;'~~0$?=?*==#%-=\1&lt;=%-@1//%*</text>
+<text x="16.0" y="340.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">\ - /&gt;/&lt;$@$=+&gt;\?#0#%  @/? ~  @-  $@*@-~+\+1&lt;*&lt;{=%$-+\%&amp;*@?-+  *</text>
+<text x="16.0" y="349.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> =\/&amp;%\&gt;?*&lt;@\$%11/\1 $ #q#      *=   #&amp;@  =&gt;1%%?/%%~=11?%~+&amp;/$ #</text>
+<text x="16.0" y="358.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  %&lt;-~-&amp;0$1\&amp;%+%#/&lt; -    *&amp;&amp;~1    ~1    &amp;&gt;=%\$1%&lt;@&lt;1&amp;=@&lt;-++/,  0</text>
+<text x="16.0" y="367.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    &gt;i&amp;%@\@-=&gt;$/3+&gt;         +@q/*     _0P&gt;??&lt;#$%%$#*%&gt;#%1#&amp;&amp;*</text>
+<text x="16.0" y="376.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">    +&amp;&lt;%@~&amp;++-  $+~&gt;           \\Hm@+-+ -~#~@%&gt;/&gt;+/~&amp;/=-$-*1=$</text>
+<text x="16.0" y="385.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> &gt;\-#+%\&amp;   ~&gt;1    =~ &lt;  &amp;   #   \  %\~ +?0&amp;+%~//*#&amp;&gt;=&amp;0=**~  -</text>
+<text x="16.0" y="394.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> =           @&lt;1~_  @@&lt; %&gt;      + &lt; $\   &lt;$+@&gt;+&gt;=&gt;\%?$%\$/%%=\ =</text>
+<text x="16.0" y="403.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   -     +&amp;      $    #@q&amp; &amp;    \&amp;?++     &gt;&lt;1%\1/~%*@#&amp;==/=&lt;&lt;?</text>
+<text x="16.0" y="412.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">            &lt;   / &amp;%**  %7*+   \ 0      ?  %@&amp;*+w-=?$=%-?-\&lt;\%</text>
+<text x="16.0" y="421.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">     ~&gt;       + 11#==&gt;~    1-+@$            ~&lt; &amp;\ #\W=?%*/*~+</text>
+<text x="16.0" y="430.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  +    $         -&amp;\"&amp;&lt;     /  -=&gt;0~/  ?  0&gt;+   &amp;    ^&amp;0i%&amp;%/  &amp;</text>
+<text x="16.0" y="439.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">  ?               ? $ 1 ~   \&lt;     #\=&lt;&gt;h?$?  $+       ?N_&gt;</text>
+<text x="16.0" y="448.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">        0    %              #-#q&lt;  0 ? _* &gt;#?  =?-=   * 1\    #</text>
+<text x="16.0" y="457.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  &gt;     0~  &amp;  -   &lt;\      *&amp;*&gt;@/&lt;+$&gt;/@%/1@~  @  =  0   ~      %</text>
+</g>
+<g class="f" style="animation-delay:2.93s">
+<text x="16.0" y="34.5" class="n" textLength="280.8" lengthAdjust="spacingAndGlyphs">          /+       =       1?**?,&gt;#$=&lt;~&lt;     @?    #</text>
+<text x="16.0" y="43.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">      0?-~~&lt;@0# $*-/=$$~n0~%&gt;@=+_?1&amp;@&amp;\$&gt;?/%%~+ $1/@&lt;$&lt;  &amp;  ? +</text>
+<text x="16.0" y="52.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">     %%#@@\%$@%--?\%@#%%=\+$~B=+B?-&lt;$&amp;'#%0+%?$*%*#1&amp;%#@~&amp;?=</text>
+<text x="16.0" y="61.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    %&amp;@$&amp;@?--%%%%%-=0g0%%0\&gt;B?~B$B@+&amp;?#@&gt;g&gt;%--%-&gt;&amp;$-0+\"'&gt;\   ~</text>
+<text x="16.0" y="70.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">   //&lt;@@&gt;%-*$$&lt;&amp;}@-B@BBB&amp;\#&gt;%BBB@&gt;-&lt;B*-@N&gt;BN/+\#~-??#/~  $</text>
+<text x="16.0" y="79.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs"> * $&lt;\@@#+0**@%*=1\%&amp;*&gt;##~~*B&lt;#\@=N??+\N$%1~??&amp;&gt;//1#$\~%=#~</text>
+<text x="16.0" y="88.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   0%%@+%&gt;$+$#\#~B%/+~%B\BN%#+=N@-N~*01NN#/?1B%\0&lt;&gt;#@#\%/#\;</text>
+<text x="16.0" y="97.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">   |~#1\%&amp;@=%-~&lt;%B$1$\B@/%1+@&gt;&amp;@/&gt;+1\$%=%N&amp;0$~#&amp;+@1=%+*&lt;\$?0~</text>
+<text x="16.0" y="106.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">/ ~~1%-\&amp;0%%?-@+&lt;&lt;=B&lt;BN@$N~@N&amp;#N&gt;=B0N=N???0?~N@?N#$+&gt;01+-#*.0</text>
+<text x="16.0" y="115.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  %%+%=+%%//-@1-/-@/@-0#&amp;1$-%?%&lt;N%%01/%*@\$1&gt;%N1$*$@%@+0%-/\   /</text>
+<text x="16.0" y="124.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    =0#@&lt;@%0@&amp;@**\?-&amp;B$B*=0    0      #-&lt;#10N**-@1?$%#@@~&lt;+@</text>
+<text x="16.0" y="133.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">    %%&lt;$=-%+&lt;B-??#0#-%==       @=?   \~\$#?#&gt;&lt;&amp;~\N0&amp;-&amp;%%&amp;@%%/&amp;</text>
+<text x="16.0" y="142.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    @%+$11@%=#0/%B=-@%$       $@   &lt; =    -%-?\N$&amp;R\%&amp;~%-=--  &amp;</text>
+<text x="16.0" y="151.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   %??@@1%*~&amp;-B$&lt;+~B@&gt;         %%$     -   /&gt;0$BB+,-??&lt;@-&gt;$1</text>
+<text x="16.0" y="160.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">1 i=+0~+&gt;@-&amp;/B#0B++*~        #            / 0=B&lt;\-~*$ +$0#%\  =</text>
+<text x="16.0" y="169.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">  # %%1%~/+~N/&gt;?N=&amp;*            ~ * ~      _++0+&gt;1% +*&gt;?*&lt;&gt;</text>
+<text x="16.0" y="178.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> #  $&gt;1%@&gt;#&lt;%&lt;&lt;$1W*    0?0+@N&amp;%    ?\  -?%g#1*+?#$&gt;%%-%&amp;0@*  0</text>
+<text x="16.0" y="187.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">+   %*&amp;&lt;\~&gt;&amp;?N-??&gt;~&lt; ~+$/%==0*@&amp;     ?$M&lt;#T11%?*&amp;?$B/~%%?1# @0~</text>
+<text x="16.0" y="196.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  = $%=  g?M\&amp;&lt;+#E/   /0~# @ $/~      1&amp;   *   \&gt;*0@B?&amp;1&amp;%@%%-=</text>
+<text x="16.0" y="205.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">  $ #% #M###/%@=@$   @?  g*@g  #E~  $+R=0+%&amp;@ +&lt;1B$~*?&lt;$~&gt;-%1?</text>
+<text x="16.0" y="214.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    %@  g-&lt;+@0-M&lt;1 0%8  *=##\-  0 $  $-@?@~~%@ =~*BB&lt;&amp;+?@\%#*</text>
+<text x="16.0" y="223.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">  *~*1 \#-&lt;B\~$ /$   $  ?0#&gt;M   % - /~ &lt;%Z#T&amp;   =/&gt;&amp;#i-?#%~$%%</text>
+<text x="16.0" y="232.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   0=&gt;*R1$$&lt;@\+#&lt;/   /g   ?&lt;  @@1   +%   T70  @ &gt; &amp; ?1@\%&amp;$?1?</text>
+<text x="16.0" y="241.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %1%-1-@=*$%~Q@&amp;    &lt;$1%-+11$1     9-  &lt;      *01@+&lt;&amp;+@~+%%=</text>
+<text x="16.0" y="250.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">   &amp;~&lt;1%@=~=+@-&amp; 1     ++ \@&lt;+  $    *?       \1%+%%0%+0\\&gt;&gt;@</text>
+<text x="16.0" y="259.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  %?-%$=g1"?-?~*0             1@1     ~Wy     ?@+# @&lt;=?%~%&gt;&lt;</text>
+<text x="16.0" y="268.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">\#%/@%%%R,/$%#+/             %B&gt;+$0   / E  -   g&amp;/*1@%&amp;%@$0#%\*</text>
+<text x="16.0" y="277.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> i&amp;%-+?%u-%2&gt;* \_~           &lt;$-@*01#-?%K/     1B?%&gt;%%1??%@&amp;1$1</text>
+<text x="16.0" y="286.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> @&gt;*%%-%%%#%00/\+*p=        $@  &amp; '$&lt;    /@   #$&gt;%0%~&gt;?#@\0$%%=</text>
+<text x="16.0" y="295.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> &gt;/~0-$*&amp;%0@&lt;%%\0+-@   &lt;   ~   1   ~% &amp;#  ?   &amp;?%\%%@&gt;@%/?@~?+&lt;</text>
+<text x="16.0" y="304.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  +1@*@&amp;*#%*0\0@@?\&lt; ~          1$?$%?&amp;0+ \\  # }1?@$&lt;*~%%%$   *</text>
+<text x="16.0" y="313.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs"> /  =#%1\%#~@~&amp;@1~&amp;0      -@" #@/*-B#+-&lt;-~&lt;   ~*$&lt;*%?1&amp;%\%&lt;</text>
+<text x="16.0" y="322.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    i$%=@*~&lt;1-~&gt;@$&lt;E       * =M&lt;??+R@/@*B@0/  00/#-11&gt;%\/-=@</text>
+<text x="16.0" y="331.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    &gt;%%%/-+\%%&gt;\%%=E      &gt;-   @ &gt;~1g&lt;+~$-@K *@~*0/%-%#-=/\&gt;</text>
+<text x="16.0" y="340.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    0+&lt;+~#%*=*%\/%&lt;@ $@_ 0       _?/@0@&amp;&lt;&amp;\@?&lt;%@%=&lt;#~~1$%=%$</text>
+<text x="16.0" y="349.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">  $,&lt;1%0@~%0=\1&amp;-&gt;@&gt;   &amp;*-   &lt;  @&gt;   ~--  @+1@+#0%%%%?#=&lt;&amp;$%~</text>
+<text x="16.0" y="358.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs"> %@$0*@*%%\&lt;"@%g&lt;~R      &lt;?0_           -%B%#=@&lt;0+@\-%%$#@?&gt;,</text>
+<text x="16.0" y="367.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ,&gt;%-#=1"_#a"-*      $   %&lt;\-      ?\*~~&amp;%%%-*/%=@+&amp;@0-%=%</text>
+<text x="16.0" y="376.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">=  &lt;/@0$-g$01-   $&gt;_        /  ~&lt;?0$#+0  @-$*-+%&gt;%*~%%=?&gt;%&amp;~'</text>
+<text x="16.0" y="385.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs"> %&amp;?=+\~/   %$\  - =~      +        \$&gt;  ~&lt;-/%#\/%\$+%0*?01=</text>
+<text x="16.0" y="394.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> &gt;          &gt;#&gt;&lt;\?   *=         _ 0 @K   \&lt;$$\#\\%%+=&gt;?&amp;?@@&amp;-*</text>
+<text x="16.0" y="403.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">          &gt;      = 0  '=0~      $P@&lt;%   +$*_7W@ $/&amp;%+&gt;&amp;#&amp;0&lt;=&lt;\</text>
+<text x="16.0" y="412.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">            \   * 0&lt;    ~\~# - &gt;           %/@0B0+*&amp;10=*+%*++0</text>
+<text x="16.0" y="421.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">                \@q+P*_  &gt; ?/&amp;~&gt;            &amp;? #1 +#**~%=~$/$</text>
+<text x="16.0" y="430.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">  1 \            &gt;=$~/*   \    7&gt;+=&lt;#      &amp;\   /    +=+$%&lt;/?0</text>
+<text x="16.0" y="439.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">  #          -#   @         #_     "*"=/1#&amp;@=  &gt;&lt;      ~&gt;&gt;&amp;</text>
+<text x="16.0" y="448.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">            @              = &amp;1+_  #  &gt;_&gt;  &gt;~            &amp;</text>
+<text x="16.0" y="457.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs"> @             &amp;           /=&gt;@L@71*_\gF1/\%  \/      1   @</text>
+</g>
+<g class="f" style="animation-delay:3.09s">
+<text x="16.0" y="34.5" class="n" textLength="253.8" lengthAdjust="spacingAndGlyphs">/         /*       $       ,?,,,%--&amp;&lt;&gt;%&gt;     =@</text>
+<text x="16.0" y="43.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">      &gt;-@0&gt;{@%} =@+#  &amp;,n%%0%g&lt;@0-%@%%\%-\$%/// /0%,-++ $ = &amp;</text>
+<text x="16.0" y="52.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs"> @   $/$%@&gt;@*&amp;\=/%%%&lt;0%1@-@@?@B=&gt;Ngg%@'$1%%$*~%&amp;%&amp;/*#%\@-*&lt;</text>
+<text x="16.0" y="61.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    %%+@@0@&gt;+#&gt;1%-&gt;&gt;@g@&amp;B&amp;&lt;B\%&gt;==0%#BB#@~g?%??\&lt;\%~%%%&amp;"1%"</text>
+<text x="16.0" y="70.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">   '%1@@~@@?%~%%/%@B/BB=*??@=BBB@+1?#\0=@%B~g\*%\#*@\~%  %</text>
+<text x="16.0" y="79.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">   1@$=\=/@#+0%%gBB-B@0&lt;&amp;1B&lt;@0N1&lt;=~?B1*N@*1=~N@+#~+-%%%%&lt;&lt;$</text>
+<text x="16.0" y="88.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   1&amp;\*=@0-&amp;1/%@-B&amp;B&lt;\=%B#&lt;?~*$1NNN&amp;&lt;N=/NN$N@B##~%%+%%&lt;%@1-&amp;</text>
+<text x="16.0" y="97.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   &amp;0&gt;1&gt;=&amp;&gt;/&lt;0&amp;\+%&lt;+BB1@+&amp;~B#N/NN-N%/@@\0NN+?N-%B@~%&gt;-%%@%%&lt;</text>
+<text x="16.0" y="106.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs"> &amp;$=?%+%@-&amp;%%%\1#B#&gt;BB$N1&amp;&gt;=N#%&amp;~*&lt;*~-#&gt;$N&lt;$NNNN-B&lt;/%%?%%?*?</text>
+<text x="16.0" y="115.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  \/i=%&lt;~#$%\0&amp;B0/B1/~N=NN+1#/M#@+/&amp;&gt;MB~$0-&lt;N%1*%&amp;@=1*%$~*\L</text>
+<text x="16.0" y="124.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    *~/01%=%?\BBB@%#&gt;1BBNM-           "=&lt;$=NN/%B\=&gt;@@\1&gt;/?%0</text>
+<text x="16.0" y="133.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%&amp;%+&gt;%%%?&lt;B/B&gt;BN=#"  %             +@#1/=0NN*&gt;-/-&lt;%%00@</text>
+<text x="16.0" y="142.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs"> &lt;  ?%&lt;-@$%%?B0NBB#/+0+                   R$B&lt;/NB+R%%$@%%%=&amp;</text>
+<text x="16.0" y="151.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   $&amp;&gt;$@$+?10N=BB%=%@~     -        #      B=@&lt;0B&gt;&amp;&amp;$%?*-*%? @</text>
+<text x="16.0" y="160.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">  i%\%@&gt;0+/%?&gt;&lt;?/11=R              +        -g?=&gt;=?#% &lt;%1%%#&lt;</text>
+<text x="16.0" y="169.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    =@%@%%0B\B0B+B=R          ~ \          ?%\?0&gt;$$ %/%&lt;%%0</text>
+<text x="16.0" y="178.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    $~&amp;&amp;@0~+/?NNB1%~   0$=#NN/g        *-g=1~#*?#-0&gt;1%%#%&lt;$</text>
+<text x="16.0" y="187.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    %~\%&lt;/BB@N/\@$C  &gt;M#&lt;Z?=@+\#@     ~#M$++0%K#+0-B@%/*0%#%,@\</text>
+<text x="16.0" y="196.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">   ?}~/  g0%11B~BE*   *1&amp;%   +\\      _+       8B%B0*0$+**&lt;%%@/</text>
+<text x="16.0" y="205.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">    %&lt; =&gt;QBW&amp;0&gt;?&amp;L   @=  ~g1\  &gt;E    &lt;%_#*g@&gt;  1\?&gt;@#\?%#@&gt;&lt;?1</text>
+<text x="16.0" y="214.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    =%  1RWBN0?-+@   8  uB+BB\  3    "\$_$+&amp;$/ 1&lt;/B#i&gt;&gt;*\=%&gt;= ~</text>
+<text x="16.0" y="223.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">   //&amp; $B0g@@M# B$   0   B&gt;0~   1   $? +~Z&gt;10   B$+N?i&lt;@\*@=*1 ?</text>
+<text x="16.0" y="232.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %~?+&lt;$/&gt;$@&amp;_=3/   /g   $"  ?@R =  B   T-&lt;&lt;   % ~ %%&lt;#\\%&amp;0"</text>
+<text x="16.0" y="241.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %?%%%1\@#B+RQ@+    $9m&gt;,#w0&amp;&amp;     -~         \0&gt;&amp;#&lt;?%~=@%%\</text>
+<text x="16.0" y="250.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">   %*#\&amp;@BBM&gt;\N~ @         @&amp;%       ?-         @~$~%~@+&amp;#+%+</text>
+<text x="16.0" y="259.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  ~\\1+"\/0%#%//0             _&lt;@     #W?      ?L# %%=?@%@S'  #</text>
+<text x="16.0" y="268.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  &amp;%*%%@R#/&lt;%$?&amp;         0   @B"_/#   @ E      \@/&gt;%~*&amp;%0-%%=*/</text>
+<text x="16.0" y="277.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> ?$/%%%-u&gt;@0%/?&gt;-            B0w&lt;%@&gt;_*0&amp;0g     #?x$1%1?-%%@&lt;+==</text>
+<text x="16.0" y="286.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> -&amp;%%%/%+&amp;@$%%%\Z@~?     @ =/~    0QT    &lt;=   -&gt;/=%~*@$~0~@%#~&lt;</text>
+<text x="16.0" y="295.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> @0@\&lt;/-$&lt;@%*~?*%*/                &gt;&lt; ++  B   @?*1%-&gt;*@/&lt;&amp;%/%&amp; #</text>
+<text x="16.0" y="304.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    @%@+=%%\%=0?%%1#    *      %=&lt;Q*\@$1# @~  &gt; =&amp;%@&amp;@%0+%%/</text>
+<text x="16.0" y="313.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">~   S&lt;&lt;%#@$&gt;&lt;@@@+$%?       ?" ~~1/BB?%@&lt;@~$   Ei&amp;%~&amp;&lt;%?$@%@</text>
+<text x="16.0" y="322.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    -+&amp;0@@@1*U/@/1\$       % =#$&amp;@-=&amp;BZB@~&amp;0  D%-%?$&amp;%*0&amp;%#&gt;</text>
+<text x="16.0" y="331.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">    %%&lt;0@%%%%$=@%%&gt;&lt;       &lt; *   '&gt;~\*ZM&amp;B@K $%%-~-%*%&lt;%+@%% =</text>
+<text x="16.0" y="340.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    #+#&lt;~%+1%0@&lt;?$@E  a_         _&amp;&lt;&lt;M=$D&amp;0&lt;~\$=*%#%1?%%%%*1</text>
+<text x="16.0" y="349.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  &gt;+0%=&gt;%#&gt;*&gt;%~%%-@L   ?+-      +\   &gt;@-  /R%/%-%/%%&gt;%-/#@&amp;#</text>
+<text x="16.0" y="358.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">  &gt;%-~=+~==#"%%g==/  #   1/q%           0?#=&lt;%*\~+%*$@%=&amp;@%$0</text>
+<text x="16.0" y="367.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    1=#0=@/#0_a+3=          %-&lt;_      &amp;p@ $#%&lt;%++%%&lt;%%&amp;~%@1%=</text>
+<text x="16.0" y="376.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ?%?+_g\~Z0   =?@   *       ++@?m#~=  $~%0%%&lt;%%%$?%%%0%%&amp;'</text>
+<text x="16.0" y="385.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  =w~\#=" $0$&gt;     @-  =            \$?  *?\&amp;~%%%%%%#%1~\%%*</text>
+<text x="16.0" y="394.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">             &amp;9w&amp;_   %&amp;         #   %K   @@@&gt;#&amp;0&lt;%-&lt;&amp;%$%---%0.</text>
+<text x="16.0" y="403.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">  -         0    *    %%*_      7P&amp;&gt;&gt;     B%/+1 %%/%&lt;=$+/%@~&amp;\</text>
+<text x="16.0" y="412.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">0      ~        # 1/     /@_      \        +N=*@@Z@%/~@*#$=+-/</text>
+<text x="16.0" y="421.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">            %   ~#0_/q_-   +9+/_          0 -? ~, @1&lt;//$%%%%+</text>
+<text x="16.0" y="430.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">                &lt;??&lt;"*~        1$w+@_=     &lt;#   E   =?%/-%&lt;/ =</text>
+<text x="16.0" y="439.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">             $    &lt;         $_     "&gt;-"h?1\#   \       'N&amp;'</text>
+<text x="16.0" y="448.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">  -@                        &gt;1@$1      =?  \~            &lt;</text>
+<text x="16.0" y="457.5" class="n" textLength="297.0" lengthAdjust="spacingAndGlyphs">    -              ~        0w0L@7~&lt;$*g&gt;*WP"          &amp;</text>
+</g>
+<g class="f" style="animation-delay:3.25s">
+<text x="16.0" y="34.5" class="n" textLength="302.4" lengthAdjust="spacingAndGlyphs">          ?-       =       @+*+?,--&amp;-&gt;&gt;~     ,,        #</text>
+<text x="16.0" y="43.5" class="n" textLength="297.0" lengthAdjust="spacingAndGlyphs">    1 ~*x@&amp;*@%= &gt;%%&lt;  &amp;1n$-&lt;%=/#~@"0&lt;\%%&lt;+%%==* *$1\?&amp;1</text>
+<text x="16.0" y="52.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">     #$&gt;&lt;0?%&lt;=%%%#&gt;&amp;$&amp;%%?0?@#BB~BNggg*'$%%%-%0%%%/&gt;%%%/&amp;-%,  \</text>
+<text x="16.0" y="61.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    0%~@/@@=@+$%%%%@@-?*B-B-B*BBBBB=B\*/-g$%$%&amp;1%*%%*~&amp;+'%"</text>
+<text x="16.0" y="70.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">   '%%@@@/&lt;%&amp;=-%}\@\BBB%~&gt;g@B$?BNN&gt;N$&lt;NNNNBNg$%%%%%-/@&gt;  $</text>
+<text x="16.0" y="79.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">   //*@~1=@*-1%%~B-B0%\-\@#BB\/NBBNBBBB0#&amp;BBBN@%#&amp;\0~%@%L&lt;;</text>
+<text x="16.0" y="88.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   %#@%@@&amp;*%-/\@/@\@$*/~B/N#~N0&amp;@N&lt;/&amp;NN\N#NN&amp;0BN/%@\%1+%@&amp;?;</text>
+<text x="16.0" y="97.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   |%~@0%&gt;&gt;&lt;%**+BBB/BB&lt;1&gt;#*#NN@&lt;@NN%N-N&lt;~#N@NNB&lt;B&amp;&amp;?%$*~@&gt;#&amp;</text>
+<text x="16.0" y="106.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  &lt;&gt;%\%&lt;~&amp;%%=&lt;@&amp;&lt;BB-BBN1N@1NN\N/+B~=NN/#@?+N~$-NN#pi%-?1%-@.</text>
+<text x="16.0" y="115.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  %&lt;i%%$/%&amp;~%@N0BBB&lt;BN&gt;-NNNNNMMB~$\PM@B#N/&gt;+~NN&lt;-~@@%@%%%%&lt;L</text>
+<text x="16.0" y="124.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%@%@@&amp;%1@B-=BBNNBB?NM"           %#+*B--0#B0\N@%%@%%*%~</text>
+<text x="16.0" y="133.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    %@$@&gt;0#%%~B0N*&gt;BNBB"                ?NZ*&lt;NB&amp;$%/U&amp;%%+%&gt;%&amp;@</text>
+<text x="16.0" y="142.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    ?%@@1%#%%%*%/BB/\&gt;@                   R*-+B\B~R&lt;@%%%%?-%</text>
+<text x="16.0" y="151.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   ~%*&lt;@%#~%@&amp;B+BQ0=@-                     B\B?BBR,?\%@%%&gt;%/</text>
+<text x="16.0" y="160.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">  *%#%@?%+%"1$N???B?/      @                B\$\@\%%% ,&amp;#1=</text>
+<text x="16.0" y="169.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    *=~@%@*#NB$B%BB/                       &amp;=C3B-&amp;? ~&amp;//%%1</text>
+<text x="16.0" y="178.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    i%%%&amp;B&gt;BN?%N$&gt;B    gg0$NNNg        -g0g$+?=MN$&amp;g0#%%%@(</text>
+<text x="16.0" y="187.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    @1\0?1B--N&gt;&gt;&amp;N@&lt; %$~MZZZg$0\      1=MTT&lt;TMK@&lt;NN-~%%%-&gt;/ ,-/</text>
+<text x="16.0" y="196.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    }%-\ g&amp;M/-B%B&lt;    g%~    $/g      _~       0+NB#=\%%/?*%@@/</text>
+<text x="16.0" y="205.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">    &gt;} &gt;M$&lt;\B/+NN=   @+  &amp;g&lt;#  1+    %&gt;~*$/@%  &lt;1$B0@&gt;%$%@%@#1</text>
+<text x="16.0" y="214.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ?%  g~W@N\BMB~   &gt;  u*N&gt;&lt;~  +    *$B_BN/@K %N/BB10\%@@%%1</text>
+<text x="16.0" y="223.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   \\* ~@0gB@@" &lt;"   $   B?NM   8   *K 3Q?-*"   &lt;\DN0$%#%$@@%%</text>
+<text x="16.0" y="232.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %01n#%%~+//_g&gt;\   /g   &amp;"  _~R    %   T7f    @ $ %%@#%+=$&lt;&gt;</text>
+<text x="16.0" y="241.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %%%%%%@#B#\&lt;Q"E    '/mL=~w@B?     9-         $/K?%%@%@$~+@\</text>
+<text x="16.0" y="250.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs"> # #%%-+@%-M0@+\ 7         @WF       /K         ?@%~%$@@%~\%/  1</text>
+<text x="16.0" y="259.5" class="n" textLength="345.6" lengthAdjust="spacingAndGlyphs">  -%%\%"&amp;+"-/B/?1             &amp;*/     M&gt;y     *@*# &gt;%@@*%-%'   @</text>
+<text x="16.0" y="268.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  %&amp;%$%&lt;R,&gt;%%/N/             @%"1\_   _ E      0@"@%#%&amp;%@%%%%%~</text>
+<text x="16.0" y="277.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> i%%%/&gt;&gt;u*=2/$ =_            B1wB&lt;B_&lt;&lt;#-%&lt;     -%x%%%~@&gt;%%&gt;&amp;%%&amp;</text>
+<text x="16.0" y="286.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> =##=0&lt;%%\{?%%0%ZD&amp;         d"    @&gt;&gt;    /-   -R&amp;%%+--%%*\\&gt;%%#</text>
+<text x="16.0" y="295.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> ?/'+*@*01@+%%-%%%=              = Ru \_  B   @M%=&gt;%@@/@-@%%%$</text>
+<text x="16.0" y="304.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    /\@\%%%%%*@&lt;/%#0            g0QM?@B+@ U"  + }-%~@@%=@~%/</text>
+<text x="16.0" y="313.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    S@=$@-%%~@&amp;=$&amp;=K       $0 *&gt;\~?BM%~?@@_   @@%-?%=%%&lt;%%%</text>
+<text x="16.0" y="322.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    i-&amp;%@&lt;-%=~#&gt;@1?E       = #=1B@@R\#ZBB+B&gt;  D\@#0~\@~*%%&amp;&gt;</text>
+<text x="16.0" y="331.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    *%1?*/%%%%%@%&lt;%*       "     ~71gBZ-~B%K 1$0%@%?&lt;~=~%%%%</text>
+<text x="16.0" y="340.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    '%1%~%&lt;%~?%/%%@E  #_         _g%Z-*/0WF_W\/+?%=$#%&gt;%%&amp;=-</text>
+<text x="16.0" y="349.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  -?#%%+%/%@%&amp;&gt;$%/@/   =*_      /T   ~H-  &gt;=0-%%%$$?0%%%%+0#</text>
+<text x="16.0" y="358.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">  \%0@%@\%%\?%/g%gR      =Hq_           _$/%%&amp;=/++%*&lt;\%%+@%&lt;\</text>
+<text x="16.0" y="367.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ,?\%%~$"+\&gt;"3@          7M0_      -pP @?%&lt;%%%%/=%1&amp;%%/=1$</text>
+<text x="16.0" y="376.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    @0=?_?&amp;F1~   &gt;W_           \PHmm&gt;*\  =%%%*$%@%01%$$%1%@%&lt;</text>
+<text x="16.0" y="385.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  &gt;%+1$&lt;"   ^g     -g               \%&amp;  *M%#$0&lt;@1%%\&amp;-&amp;%%%1</text>
+<text x="16.0" y="394.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">             '9-g_   9#         _   \&gt;   d@@@&amp;&amp;#%0+*%%1&lt;%&gt;%%%&gt;</text>
+<text x="16.0" y="403.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">                 ?    '9q#      0?fF"     @_7$N&amp;##@#0\!+%%%%%\</text>
+<text x="16.0" y="412.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">                &gt; 0# $   7W#   *           %+?MB&lt;Z@%%$%\2%%&gt;%/</text>
+<text x="16.0" y="421.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">                &amp;M&amp;#P?\    '=&amp;g_            &gt;1 ~, %9W-$\%%1&amp;%</text>
+<text x="16.0" y="430.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">                 B&gt;7""&gt;        &amp;Hwg/_      _#   ~    ^%#i%+/</text>
+<text x="16.0" y="439.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">                  7         %_     0T&lt;"h#0#"   #+      &gt;N~-   @</text>
+<text x="16.0" y="448.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">                 -           &amp;~q%      __  g~            9</text>
+<text x="16.0" y="457.5" class="n" textLength="237.6" lengthAdjust="spacingAndGlyphs">    1                  @    +w\L'$?w~0gF7&lt;##</text>
+</g>
+<g class="f" style="animation-delay:3.41s">
+<text x="16.0" y="34.5" class="n" textLength="253.8" lengthAdjust="spacingAndGlyphs">          ,-       ,       ,/*,,,--&lt;&lt;&gt;1&gt;     ,@</text>
+<text x="16.0" y="43.5" class="n" textLength="297.0" lengthAdjust="spacingAndGlyphs">      &lt;=x$%{i$= 1@%%  ,,n%%%%&amp;?@_//\%#%%&lt;%%%%%% -%,&amp;&lt;%.</text>
+<text x="16.0" y="52.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">     1%0&gt;@@%+%~%%%%%%%%%@g@@BBBB01ggg&amp;'+%%%/-%%&gt;%%%%&amp;&lt;&gt;$~%,</text>
+<text x="16.0" y="61.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    %$%&amp;@@@@@#%%%%&gt;@*g@BBBB~BBBBB~#BB0B#$g@%-%%&amp;%%%0&lt;%/"'%"</text>
+<text x="16.0" y="70.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">   ~%/@&amp;@/*$%%%%&gt;\@B\B/BBgg@0BBB1NN+B-&amp;&lt;NN?Ng%/=%$%%%##  &amp;</text>
+<text x="16.0" y="79.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">   ~@@@@@@@%%%\%gB~&amp;BBB$B*&amp;\BN*N%BNB&amp;B1NNNBBBN@%%&amp;%%%?%%&gt;%*</text>
+<text x="16.0" y="88.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   %1@@@&lt;@@%//%1+BB+BBB~+BN/&amp;NNNNNNNN$NNNN11B~#N@@%%\%%#@\%;</text>
+<text x="16.0" y="97.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   |%+#*%#%-%%@*BBBB-~B*NNN/N#*NN&lt;?BNBN&lt;#N*&amp;=&amp;%BB&lt;"/%=%/~%%&gt;</text>
+<text x="16.0" y="106.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  1*%%-@$%%%~\@BBBBB\BN$?$B-&amp;NNN&lt;BB\NNN+~NN%?N?NNBp&amp;%%0%%@%.</text>
+<text x="16.0" y="115.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  %/i%%@%%&lt;0%@&lt;BBBBB=?1N0\&gt;NNMM=%NM\@?%=1+%N%N**N&amp;B@%%%%%%%L</text>
+<text x="16.0" y="124.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%/%*@#&amp;%+&gt;B$B&lt;NN=0BNM+           &amp;-1N&amp;~NNB?NBN@%%%%&lt;/%*</text>
+<text x="16.0" y="133.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %*&amp;%?%%%%~@&lt;NB*@@%#*                -~1BN=BNNNN?%/%*%?+%</text>
+<text x="16.0" y="142.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%%@@%%%%1BNB=BB/W"                   RBB1%NBNR%%$?%%&amp;%(</text>
+<text x="16.0" y="151.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   %%#@@\%%&gt;0NB*&lt;Qg/&lt;@                     B/&gt;&amp;1B&amp;,-%%%%%%%'</text>
+<text x="16.0" y="160.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">  i+?%@%%%%"BBNBBB$@#                       B&gt;B@=%%%% ,?=0%</text>
+<text x="16.0" y="169.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    =%%%%"gBN-N+?=B%                       &gt;B03\1BN &amp;%?%%$/</text>
+<text x="16.0" y="178.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    i%%%@B*/&lt;B$NBWB    +-g@+&lt;N&amp;        ~gg\g@g&amp;-N=N=%%%%0#/</text>
+<text x="16.0" y="187.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    %%%%?\BBBNNB&amp;&gt;*  %M$~Z%Z&lt;_T"      ~MMTTPT=KBNNNB@%*%=%/ ,,&gt;</text>
+<text x="16.0" y="196.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    \*/  gB#QB=&lt;BE    g1/    7#+      _p       8B1/@B\/%@*\%@//</text>
+<text x="16.0" y="205.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">    %} $MQ&lt;W=BB$&gt;L   @R  gg-g  ^E    1R/g@g@_  3@BBE&amp;&gt;~%@&amp;%&gt;@"</text>
+<text x="16.0" y="214.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ?&amp;  -+W@N~0?BL   8  u&lt;~-B&amp;  3    %\&amp;_B#K0K /N0B$i&lt;%%@@%%C</text>
+<text x="16.0" y="223.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   ,%% #~Rg1=M\ B"   $   BBNM   %   %K ~Q&amp;TT"   &amp;WD/K-$@%%@\%%</text>
+<text x="16.0" y="232.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %%%nR1+"g@0_&gt;31   /?   -"  %+@    B   T7#    I B %%@@%@0%%"</text>
+<text x="16.0" y="241.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %+%%&lt;%@@BB%&lt;Q"E    *9mL,Lw@BF     9+         $*@i&lt;%@$@@@%=\</text>
+<text x="16.0" y="250.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">   ~%%%%@BB~+@NB 7         @WF       ?=         E?0%%#@@@@0%/</text>
+<text x="16.0" y="259.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  i%%\%"gB"%%B/\K             _&gt;&amp;     M\y      @L# &lt;/@@0%@/'</text>
+<text x="16.0" y="268.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  %=%%%&gt;R%,%%/N/             @#0?__   _ E      1="i0%#%$@%%0%%/</text>
+<text x="16.0" y="277.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> i%%%%&lt;&gt;u~%-%% ~*            @3wB-++#WN\K0     &amp;Bx%%%%@&amp;%%@%%&gt;%</text>
+<text x="16.0" y="286.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> %%?%~%%%%{%%#%%Z&lt;p         1"    '1T    3@   -$/%@%%@%%?%+%*+/</text>
+<text x="16.0" y="295.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> $%'i@#$%&lt;@+@-%%%$B                Ru /1  B   @M%+%%@%@@@/%\%+</text>
+<text x="16.0" y="304.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    @%@@%&lt;%%%&amp;@@%%HL            *WQ\$@BB- U@  g }$#@$/%%*%%/</text>
+<text x="16.0" y="313.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    ~@%%@&amp;%$@@~1@%%K       @" _@@@BBM&gt;@g@1+   *i\%%+%&gt;%\%=%</text>
+<text x="16.0" y="322.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    \%%%@&amp;~%%U@@@%%E       $ #@10?@&gt;BBZB1@Bp  D*%%%%%%&gt;%&amp;%?=</text>
+<text x="16.0" y="331.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    0?&amp;%@&lt;%~10%@%%$E       1     ?7#$BZ*1B@K g%/@%0-%=%=%%%%</text>
+<text x="16.0" y="340.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    '%%%&amp;=/%%@%%%%@E  =/         _gLZMW?D1F_W\{%-%-+%%%%%%=,</text>
+<text x="16.0" y="349.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  ,1&lt;%~%%%%%%&lt;%%%*\L   9q_      ^T   7H&gt;  g?~%%\%@%%%%\%%@%&lt;</text>
+<text x="16.0" y="358.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">  %\%%%%%%%}@$/g@gR      #-q0           _$&amp;%%%%%%%?%%-%=@@\1,</text>
+<text x="16.0" y="367.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    ,i%%%&lt;/"*_a"3@          7&lt;%_      +$* &gt;&lt;%%%%%&lt;#%1%&lt;%&amp;%%%? $</text>
+<text x="16.0" y="376.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    &lt;%=#@-/FZK   ^W$           7PHm%#T7  -\0*/%%%*%%%%&amp;%%*?&gt;'</text>
+<text x="16.0" y="385.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  pwm#f?"   ^g     7g               \@#  q/%=%%%%/%~%$-%%%%,</text>
+<text x="16.0" y="394.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">             '9*-\   1g         _   ~K   d@@@g"%%%%%%%#?%1%&amp;?.</text>
+<text x="16.0" y="403.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">                 3    '9q\      7P=F"     B_\W= %%%$%}!%%%%\%\</text>
+<text x="16.0" y="412.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">                g K_     7W_               PN\@BwZ&lt;?+%#%2%%&lt;*/</text>
+<text x="16.0" y="421.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">                ~M?_Pq_    '9&amp;g_            +~ -0 &gt;+W~"\%=%%%</text>
+<text x="16.0" y="430.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">                 B_7"-"        7Hwg__      _#   E    &gt;9@*%%*</text>
+<text x="16.0" y="439.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">                  ?         1\     "T""hh&amp;?"   #       'N-'</text>
+<text x="16.0" y="448.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">                             $mq_      __  &gt;~            $</text>
+<text x="16.0" y="457.5" class="n" textLength="237.6" lengthAdjust="spacingAndGlyphs">                            &gt;wwL%&amp;%&amp;~_gF&amp;/P"</text>
+</g>
+<g class="f" style="animation-delay:3.57s">
+<text x="16.0" y="34.5" class="n" textLength="253.8" lengthAdjust="spacingAndGlyphs">          ,-       ,       ,,,&lt;,,-@&lt;&lt;&gt;&gt;@     ,,</text>
+<text x="16.0" y="43.5" class="n" textLength="297.0" lengthAdjust="spacingAndGlyphs">      @ux%0{i%} &gt;=%%  ,,1@-%1g0@_+"%&gt;%=$%%%%%&gt;% ?-,,&lt;%.</text>
+<text x="16.0" y="52.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">     %%%%1@%%%/+%%%\%1%%@g@@&gt;BBBBNggg$'"&amp;%%%%%%%%%%%%%1#%%,</text>
+<text x="16.0" y="61.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    %%%@@=@@@%%%%%%0@g@BBB@BBBB&lt;BBBB*BB@gg-%%%%%%%%%%%1"'&amp;"</text>
+<text x="16.0" y="70.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">   '%%@@?#@%%%%%}\+BBBB1B&gt;g@BB&gt;BNNNNB~&amp;N&gt;%@=\%%@%%%%%@%  %</text>
+<text x="16.0" y="79.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">   /?@-@@@&amp;%%%&gt;%gBBBBBBBBB#*BNNNBBNBBBB%/NBBBN@%%%%@%%%%L%&lt;</text>
+<text x="16.0" y="88.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   %@@%@@@?0//%$BBBBBBBBBBNNNN&gt;NNNNNN&amp;N#NNN&lt;B+BN?%%%%%%%+%%;</text>
+<text x="16.0" y="97.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   |%%@@%@%%%%@BB&gt;BBBB1BNN*B0NNNN?N$NBNNNNNNNNB0B@"%%%#%@%%(</text>
+<text x="16.0" y="106.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  ,%%%%/*%\%%%@&gt;BBBBB?NNNNB&gt;1N&lt;NNB?BNNNNN?NNNNNNNBpi%%%%%@&amp;.</text>
+<text x="16.0" y="115.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  %/i%&lt;@%%%%%@N=BBBBBNNN-NNNN0MBNNMP*MBBNNNNNNNN~BB\%%0%%%%L</text>
+<text x="16.0" y="124.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%%%@@&gt;%%@B@BBBNNBB0NM~           "RQ#BNN%0BNBN@%%1%%%%$</text>
+<text x="16.0" y="133.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%@%@%%~%BB1N&amp;BBNBB"                ?=ZB-N+NNNN\0%&amp;%%@%+</text>
+<text x="16.0" y="142.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%%#~%%%%BB?BBB0+W"                   *BBBBNBNR%%%%%%%%1</text>
+<text x="16.0" y="151.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   %%%0@%%%%@NBB1QgB@F                     B/=NB$R,@%%%%%%%\</text>
+<text x="16.0" y="160.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">  i%%\&lt;#+%%"BBNBBBB@R                       BgB@@B/%% ,%%%%</text>
+<text x="16.0" y="169.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    $%%%%0gBNBNBNB&amp;R                       _BC3BNBN %%/%%&gt;}</text>
+<text x="16.0" y="178.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    i%+%\BMB&lt;BNNBW&lt;    ggg@NNN#        _gggg@g/MN?/g%%%%%&lt;(</text>
+<text x="16.0" y="187.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    %%%/?-BBBNNBBNC  %MMMZZZg_T-      &gt;MMTT1+MKBNNN*@=%%@%/ =,,</text>
+<text x="16.0" y="196.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    ?%/  gBMQBBBBE    g#"    &gt;~g      _p       8BNB@B\+#@@1%@@/</text>
+<text x="16.0" y="205.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">    %1 &lt;MQBWBBBN1L   @~  gg?g  ^E    %R_g@g@0  3@0B+^-%-@@%=@0</text>
+<text x="16.0" y="214.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ?%  gRWBNBBMBL   &gt;  uBNBBK  3    %\B_BNK@K /NNBBi%%%@@%%C</text>
+<text x="16.0" y="223.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   ,%$ gBR0B@\" B"   $   B&gt;NM   8   %K 3=0TT0   B&amp;DNKi%@%&lt;@@%%</text>
+<text x="16.0" y="232.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %%%nR%%&gt;g@~=g3\   /#   ="  \@R    B   ~7f    I B %%@%%@%%%"</text>
+<text x="16.0" y="241.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %%&gt;%%$@@~%%RQ"E    '9\L,L*@B@     9#         $-Ki%%@%@*@%%\</text>
+<text x="16.0" y="250.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">   %%%0%@BBM\0NB 7         @WF       =K         E@&amp;%%%@@*@@%/</text>
+<text x="16.0" y="259.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  i%~%%"gB"%%B/?K             _p/     M&lt;y      @$# %%~@@%@*~</text>
+<text x="16.0" y="268.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  %%%%%U%,,%%/&gt;/             ?B"___   _ E      g@"i%&gt;%%%@%%&amp;%%$</text>
+<text x="16.0" y="277.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> i%%%@%&gt;u+%2%% N@            B3wBN=__WN@Kg     BBx%#%%@@%%@%%%%</text>
+<text x="16.0" y="286.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> %&lt;%%%%%%+{%?+%%/Dp         d"    '0T    3@   1R?%%%%?%%@1@@%%/</text>
+<text x="16.0" y="295.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> %0~i*%%%0/@@#%=%%B                #u __  %   @M%1%%/%@@@@%%%"</text>
+<text x="16.0" y="304.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    @%@@%%%-%%@@*%HL            gWQMW*BBg U"  g }=%@@@/%%&amp;%/</text>
+<text x="16.0" y="313.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    S@%%@$%-@@@@?$%K       @" _@@@BBMB#g@@_   Ei%%%$+@%-%+%</text>
+<text x="16.0" y="322.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    i%%%@@#%%&gt;@@#%\~       $ #1NB1@RBBZBB@Bp  D%%%%%%%%%?%%~</text>
+<text x="16.0" y="331.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%%%@&lt;*%%%%@%%%E       "     '7Mg?+MB\@K g-%%%$%%%%%%%%%</text>
+<text x="16.0" y="340.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    '%%%%%?%%/&gt;%%%@E  a_         &lt;gLZ0W&amp;DW&lt;_W\{&lt;%%*%%%&gt;&amp;$%%,</text>
+<text x="16.0" y="349.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  ,,&lt;%%%%%+%$%&amp;%#/&lt;L   9q_      ^T   7H\  gR%%%==%%%%%$0~@0&amp;</text>
+<text x="16.0" y="358.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">  %%&gt;%%%~%%}"#/g$gR      7Hq_           _\B%%%%%%%%%%%%%%@%/,</text>
+<text x="16.0" y="367.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    $i%%%%/"__a\3@          7Mq_      _pP E?%%%%0%%%%%%1%%%\%</text>
+<text x="16.0" y="376.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ?%""_gw-ZK   ^W_           7PHmm*T7  -D0%%%%%%%%%*%%%%%%'</text>
+<text x="16.0" y="385.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  *w-#@"%   ^g     7g               \+%  qM%%%%%%%%%%%-%%%%,</text>
+<text x="16.0" y="394.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">             '@wg_   9g         _   @K   d@@@g"%%%%#%%%%$=%%%.</text>
+<text x="16.0" y="403.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">                 3    #9q_      7=f/"     B_7WN %%%%%}!%%%%%%\</text>
+<text x="16.0" y="412.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">                ? +_     7W_               PN@~BwZ@%%%%%2%*%%/</text>
+<text x="16.0" y="421.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">                3Mq_P&gt;%    '9&amp;g_            @R 9&lt; ^9W@#%%%%*%</text>
+<text x="16.0" y="430.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">                 +$7"""        *H@g__      _#   E    \9@i%%/</text>
+<text x="16.0" y="439.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">                  =         &gt;_     "T""hhf?"   #       'N_'</text>
+<text x="16.0" y="448.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">                             7mq_      _#  #~            %</text>
+<text x="16.0" y="457.5" class="n" textLength="237.6" lengthAdjust="spacingAndGlyphs">                            gwwL'7%w__gF7WP"</text>
+</g>
+<g class="f" style="animation-delay:3.73s">
+<text x="16.0" y="34.5" class="n" textLength="253.8" lengthAdjust="spacingAndGlyphs">          ,-       ,       ,,,,,,--&lt;&lt;&gt;&gt;&gt;     ,,</text>
+<text x="16.0" y="43.5" class="n" textLength="297.0" lengthAdjust="spacingAndGlyphs">      &lt;ux%%{i%} &gt;%%%  ,,n%%%%gg@_""%%%%%%%%%%%% ,-,,&lt;%.</text>
+<text x="16.0" y="52.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">     %%%%@@%%%%%%%%%%%%%@g@@BBBBBNggg_'"%%%%%%%%%%%%%%\&lt;%%,</text>
+<text x="16.0" y="61.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    %%%@@@@@@%%%%%%@@g@BBBBBBBBBBBBBBBB@gg@%%%%%%%%%%%%"'%"</text>
+<text x="16.0" y="70.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">   '%%@@@@@%%%%%}\@BBBBBBgg@BBBBNNNNBNNNNNBNg%%%%%%%%@%  %</text>
+<text x="16.0" y="79.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">   /@@@@@@@%%%%%gBBBBBBBBBBBBNNNBBNBBBBNNNBBBN@%%%%%%%%%L%;</text>
+<text x="16.0" y="88.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   %@@%@@@@%//%@BBBBBBBBBBNNNNNNNNNNNNNNNNNNBBBN@%%%%%%%@%%;</text>
+<text x="16.0" y="97.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   |%%@@%@%%%%@BBBBBBBBBNNNBNNNNNNNBNBNNNNNNNNBBB@"%%%%%@%%(</text>
+<text x="16.0" y="106.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  ,%%%%%@%%%%%@BBBBBBBNNNNBNNNNNNBBBNNNNNNNNNNNNNBpi%%%%%@%.</text>
+<text x="16.0" y="115.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  %/i%%@%%%%%@NBBBBBBNNNNNNNNMMBNNMPMMBBNNNNNNNNNBB@%%%%%%%L</text>
+<text x="16.0" y="124.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%@%@@%%%@BBBBBNNBBBNM"           "RQNBNNNBBNBN@%%%%%%%%</text>
+<text x="16.0" y="133.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%@%@%%%%BBBNBBBNBB"                ?NZBNNBNNNNU%%%%%@%%</text>
+<text x="16.0" y="142.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%%@@%%%%BBNBBBBBW"                   RBBBBNBNR%%%%%%%%(</text>
+<text x="16.0" y="151.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">   %%%@@%%%%@NBBBQgB@F                     B/BNBBR,%%%%%%%%'</text>
+<text x="16.0" y="160.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">  i%%%@%%%%"BBNBBBB@R                       BgB@@B/%% ,%%%%</text>
+<text x="16.0" y="169.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    {%%%%"gBNBNBNBBR                       _BC3BNBN %%%%%%}</text>
+<text x="16.0" y="178.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    i%%%@BMBNBNNBWB    ggg@NNNg        _gggg@g/MNBNg%%%%%@(</text>
+<text x="16.0" y="187.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    %%%%?gBBBNNBBNC  %MMMZZZg_T"      &gt;MMTTPTMKBNNNB@%%%@%/ ,,,</text>
+<text x="16.0" y="196.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">    }%/  gBMQBBBBE    g#"    79g      _p       8BNB@B\%%@@@%@@/</text>
+<text x="16.0" y="205.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">    %} WMQBWBBBNNL   @R  gggg  ^E    %R_g@g@_  3@BBE^/%%@@%%@"</text>
+<text x="16.0" y="214.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ?%  gRWBNBBMBL   8  uBNBBK  3    "\B_BNK@K /NNBBi%%%@@%%C</text>
+<text x="16.0" y="223.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   ,%% gBRgB@M" B"   $   BBNM   8   %K 3QZTT"   BWDNKi%@%%@@%%</text>
+<text x="16.0" y="232.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %%%nR%%"g@/_g3/   /g   T"  _@R    B   T7f    I B %%@%%@%%%"</text>
+<text x="16.0" y="241.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %%%%%%@@BB%RQ"E    '9mL,Lw@BF     9~         $-Ki%%@%@@@%%\</text>
+<text x="16.0" y="250.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">   %%%%%@BBMM@NB 7         @WF       ?K         E@%%%%@@@@@%/</text>
+<text x="16.0" y="259.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  i%%%%"gB"%%B/?K             _p/     MWy      @L# %%@@@%@S'</text>
+<text x="16.0" y="268.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs">  %%%%%UR,,%%/N/             @B"___   _ E      g@"i%%%%%@%%%%%;</text>
+<text x="16.0" y="277.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> i%%%%%&gt;u%%2%% N_            B3wBNB__WN@Kg     BBx%%%%@@%%@%%%%</text>
+<text x="16.0" y="286.5" class="n" textLength="340.2" lengthAdjust="spacingAndGlyphs"> %%%%%%%%%{%%%%%ZDp         d"    'QT    3@   -R/%%%%@%%@%@%%%/</text>
+<text x="16.0" y="295.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs"> %%'i@%%%%@@@%%%%%B                Ru __  B   @M%%%%@%@@@@%%%"</text>
+<text x="16.0" y="304.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    @%@@%%%%%%@@%%HL            gWQMW@BBg U"  g }%%@@@%%%%%/</text>
+<text x="16.0" y="313.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">    S@%%@%%%@@@@@%%K       @" _@@@BBMB@g@@_   Ei%%%%%%%%%%%</text>
+<text x="16.0" y="322.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    i%%%@@@%%U@@@%\E       $ #MNB@@RBBZBB@Bp  D%%%%%%%%%%%%&gt;</text>
+<text x="16.0" y="331.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%%%@%%%%%%@%%%E       "     '7MgBZMBB@K g%%%%%%%%%%%%%%</text>
+<text x="16.0" y="340.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">    '%%%%%%%%%%%%%@E  a_         _gLZMW&amp;DWF_W\{%%%%%%%%%%%%,</text>
+<text x="16.0" y="349.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  ,,&lt;%%%%%%%%%%%%/@L   9q_      ^T   7H-  gR%%%%%%%%%%%%%@%%</text>
+<text x="16.0" y="358.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">  %%%%%%%%%}"%/g@gR      7Hq_           _WB%%%%%%%%%%%%%%@%/,</text>
+<text x="16.0" y="367.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ,i%%%%/"__a"3@          7Mq_      _pP E?%%%%%%%%%%%%%%%%%</text>
+<text x="16.0" y="376.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ?%""_gwFZK   ^W_           7PHmm#T7  -D%%%%%%%%%%%%%%%%%'</text>
+<text x="16.0" y="385.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">  pwm#f""   ^g     7g               \@%  qM%%%%%%%%%%%%%%%%,</text>
+<text x="16.0" y="394.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">             '9wg_   9g         _   @K   d@@@g"%%%%%%%%%%%%%%.</text>
+<text x="16.0" y="403.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">                 3    '9q_      7PfF"     B_7WN %%%%%}!%%%%%%\</text>
+<text x="16.0" y="412.5" class="n" textLength="334.8" lengthAdjust="spacingAndGlyphs">                g K_     7W_               PN@MBwZ@%%%%%2%%%%/</text>
+<text x="16.0" y="421.5" class="n" textLength="329.4" lengthAdjust="spacingAndGlyphs">                3Mq_Pq_    '9&amp;g_            @R 9, ^9W@"%%%%%%</text>
+<text x="16.0" y="430.5" class="n" textLength="324.0" lengthAdjust="spacingAndGlyphs">                 B_7"""        7Hwg__      _#   E    ^9@i%%/</text>
+<text x="16.0" y="439.5" class="n" textLength="318.6" lengthAdjust="spacingAndGlyphs">                  7         __     "T""hhf""   #       'N_'</text>
+<text x="16.0" y="448.5" class="n" textLength="313.2" lengthAdjust="spacingAndGlyphs">                             7mq_      __  g~            9</text>
+<text x="16.0" y="457.5" class="n" textLength="237.6" lengthAdjust="spacingAndGlyphs">                            gwwL'7%w__gF7WP"</text>
+</g>
+<g class="r" style="animation-delay:3.89s">
+<text x="16.0" y="34.5" class="a" textLength="253.8" lengthAdjust="spacingAndGlyphs">          ,-       ,       ,,,,,,--&lt;&lt;&gt;&gt;&gt;     ,,</text>
+<text x="16.0" y="43.5" class="a" textLength="297.0" lengthAdjust="spacingAndGlyphs">      &lt;ux%%{i%} &gt;%%%  ,,n%%%%gg@_""%%%%%%%%%%%% ,-,,&lt;%.</text>
+<text x="16.0" y="52.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs">     %%%%@@%%%%%%%%%%%%%@g@@BBBBBNggg_'"%%%%%%%%%%%%%%\&lt;%%,</text>
+<text x="16.0" y="61.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs">    %%%@@@@@@%%%%%%@@g@BBBBBBBBBBBBBBBB@gg@%%%%%%%%%%%%"'%"</text>
+<text x="16.0" y="70.5" class="a" textLength="313.2" lengthAdjust="spacingAndGlyphs">   '%%@@@@@%%%%%}\@BBBBBBgg@BBBBNNNNBNNNNNBNg%%%%%%%%@%  %</text>
+<text x="16.0" y="79.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs">   /@@@@@@@%%%%%gBBBBBBBBBBBBNNNBBNBBBBNNNBBBN@%%%%%%%%%L%;</text>
+<text x="16.0" y="88.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">   %@@%@@@@%//%@BBBBBBBBBBNNNNNNNNNNNNNNNNNNBBBN@%%%%%%%@%%;</text>
+<text x="16.0" y="97.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">   |%%@@%@%%%%@BBBBBBBBBNNNBNNNNNNNBNBNNNNNNNNBBB@"%%%%%@%%(</text>
+<text x="16.0" y="106.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">  ,%%%%%@%%%%%@BBBBBBBNNNNBNNNNNNBBBNNNNNNNNNNNNNBpi%%%%%@%.</text>
+<text x="16.0" y="115.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">  %/i%%@%%%%%@NBBBBBBNNNNNNNNMMBNNMPMMBBNNNNNNNNNBB@%%%%%%%L</text>
+<text x="16.0" y="124.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%@%@@%%%@BBBBBNNBBBNM"           "RQNBNNNBBNBN@%%%%%%%%</text>
+<text x="16.0" y="133.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%@%@%%%%BBBNBBBNBB"                ?NZBNNBNNNNU%%%%%@%%</text>
+<text x="16.0" y="142.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%%@@%%%%BBNBBBBBW"                   RBBBBNBNR%%%%%%%%(</text>
+<text x="16.0" y="151.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">   %%%@@%%%%@NBBBQgB@F                     B/BNBBR,%%%%%%%%'</text>
+<text x="16.0" y="160.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs">  i%%%@%%%%"BBNBBBB@R                       BgB@@B/%% ,%%%%</text>
+<text x="16.0" y="169.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs">    {%%%%"gBNBNBNBBR                       _BC3BNBN %%%%%%}</text>
+<text x="16.0" y="178.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs">    i%%%@BMBNBNNBWB    ggg@NNNg        _gggg@g/MNBNg%%%%%@(</text>
+<text x="16.0" y="187.5" class="a" textLength="340.2" lengthAdjust="spacingAndGlyphs">    %%%%?gBBBNNBBNC  %MMMZZZg_T"      &gt;MMTTPTMKBNNNB@%%%@%/ ,,,</text>
+<text x="16.0" y="196.5" class="a" textLength="340.2" lengthAdjust="spacingAndGlyphs">    }%/  gBMQBBBBE    g#"    79g      _p       8BNB@B\%%@@@%@@/</text>
+<text x="16.0" y="205.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs">    %} WMQBWBBBNNL   @R        ^E    %R_g@g@_  3@BBE^/%%@@%%@"</text>
+<text x="16.0" y="214.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ?%  gRWBNBBMBL   8          3    "\B_BNK@K /NNBBi%%%@@%%C</text>
+<text x="16.0" y="223.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs">   ,%% gBRgB@M" B"   $          8   %K 3QZTT"   BWDNKi%@%%@@%%</text>
+<text x="16.0" y="232.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %%%nR%%"g@/_g3/   /g       _@R    B   T7f    I B %%@%%@%%%"</text>
+<text x="16.0" y="241.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs">   %%%%%%@@BB%RQ"E    '9mL,Lw@BF     9~         $-Ki%%@%@@@%%\</text>
+<text x="16.0" y="250.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs">   %%%%%@BBMM@NB 7         @WF       ?K         E@%%%%@@@@@%/</text>
+<text x="16.0" y="259.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">  i%%%%"gB"%%B/?K             _p/     MWy      @L# %%@@@%@S'</text>
+<text x="16.0" y="268.5" class="a" textLength="340.2" lengthAdjust="spacingAndGlyphs">  %%%%%UR,,%%/N/             @B"___   _ E      g@"i%%%%%@%%%%%;</text>
+<text x="16.0" y="277.5" class="a" textLength="340.2" lengthAdjust="spacingAndGlyphs"> i%%%%%&gt;u%%2%% N_            B3wBNB__WN@Kg     BBx%%%%@@%%@%%%%</text>
+<text x="16.0" y="286.5" class="a" textLength="340.2" lengthAdjust="spacingAndGlyphs"> %%%%%%%%%{%%%%%ZDp         d"    'QT    3@   -R/%%%%@%%@%@%%%/</text>
+<text x="16.0" y="295.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs"> %%'i@%%%%@@@%%%%%B                Ru __  B   @M%%%%@%@@@@%%%"</text>
+<text x="16.0" y="304.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">    @%@@%%%%%%@@%%HL            gWQMW@BBg U"  g }%%@@@%%%%%/</text>
+<text x="16.0" y="313.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs">    S@%%@%%%@@@@@%%K       @" _@@@BBMB@g@@_   Ei%%%%%%%%%%%</text>
+<text x="16.0" y="322.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">    i%%%@@@%%U@@@%\E       $ #MNB@@RBBZBB@Bp  D%%%%%%%%%%%%&gt;</text>
+<text x="16.0" y="331.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">    %%%%@%%%%%%@%%%E       "     '7MgBZMBB@K g%%%%%%%%%%%%%%</text>
+<text x="16.0" y="340.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">    '%%%%%%%%%%%%%@E  a_         _gLZMW&amp;DWF_W\{%%%%%%%%%%%%,</text>
+<text x="16.0" y="349.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">  ,,&lt;%%%%%%%%%%%%/@L   9q_      ^T   7H-  gR%%%%%%%%%%%%%@%%</text>
+<text x="16.0" y="358.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs">  %%%%%%%%%}"%/g@gR      7Hq_           _WB%%%%%%%%%%%%%%@%/,</text>
+<text x="16.0" y="367.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ,i%%%%/"__a"3@          7Mq_      _pP E?%%%%%%%%%%%%%%%%%</text>
+<text x="16.0" y="376.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs">    ?%""_gwFZK   ^W_           7PHmm#T7  -D%%%%%%%%%%%%%%%%%'</text>
+<text x="16.0" y="385.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">  pwm#f""   ^g     7g               \@%  qM%%%%%%%%%%%%%%%%,</text>
+<text x="16.0" y="394.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs">             '9wg_   9g         _   @K   d@@@g"%%%%%%%%%%%%%%.</text>
+<text x="16.0" y="403.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs">                 3    '9q_      7PfF"     B_7WN %%%%%}!%%%%%%\</text>
+<text x="16.0" y="412.5" class="a" textLength="334.8" lengthAdjust="spacingAndGlyphs">                g K_     7W_               PN@MBwZ@%%%%%2%%%%/</text>
+<text x="16.0" y="421.5" class="a" textLength="329.4" lengthAdjust="spacingAndGlyphs">                3Mq_Pq_    '9&amp;g_            @R 9, ^9W@"%%%%%%</text>
+<text x="16.0" y="430.5" class="a" textLength="324.0" lengthAdjust="spacingAndGlyphs">                 B_7"""        7Hwg__      _#   E    ^9@i%%/</text>
+<text x="16.0" y="439.5" class="a" textLength="318.6" lengthAdjust="spacingAndGlyphs">                  7         __     "T""hhf""   #       'N_'</text>
+<text x="16.0" y="448.5" class="a" textLength="313.2" lengthAdjust="spacingAndGlyphs">                             7mq_      __  g~            9</text>
+<text x="16.0" y="457.5" class="a" textLength="237.6" lengthAdjust="spacingAndGlyphs">                            gwwL'7%w__gF7WP"</text>
+<g class="pm"><g class="pb">
+<text x="151.0" y="205.5" class="a" textLength="21.6" lengthAdjust="spacingAndGlyphs">gggg</text>
+<text x="145.6" y="214.5" class="a" textLength="32.4" lengthAdjust="spacingAndGlyphs">uBNBBK</text>
+<text x="151.0" y="223.5" class="a" textLength="21.6" lengthAdjust="spacingAndGlyphs">BBNM</text>
+<text x="156.4" y="232.5" class="a" textLength="10.8" lengthAdjust="spacingAndGlyphs">T"</text>
+</g></g>
+<g class="lid"><text x="134.8" y="214.5" class="a" textLength="54.0" lengthAdjust="spacingAndGlyphs">==========</text></g>
+</g>
+<text x="392.0" y="35.4" class="i k b" textLength="7.8" lengthAdjust="spacingAndGlyphs">$</text>
+<g class="c" style="animation-delay:0.48s"><text x="407.6" y="35.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">w</text></g>
+<g class="c" style="animation-delay:0.61s"><text x="415.4" y="35.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">h</text></g>
+<g class="c" style="animation-delay:0.74s"><text x="423.2" y="35.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">o</text></g>
+<g class="c" style="animation-delay:0.87s"><text x="431.0" y="35.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">a</text></g>
+<g class="c" style="animation-delay:1.00s"><text x="438.8" y="35.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">m</text></g>
+<g class="c" style="animation-delay:1.13s"><text x="446.6" y="35.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">i</text></g>
+<g class="tc"><rect class="tx" x="407.6" y="24.4" width="7.8" height="14" fill="#a5d6ff"/></g>
+<g class="l" style="animation-delay:1.35s"><text x="392.0" y="55.8" class="i k b" textLength="132.6" lengthAdjust="spacingAndGlyphs">tukapipopi@github</text><text x="532.4" y="55.8" class="i d" textLength="312.0" lengthAdjust="spacingAndGlyphs">----------------------------------------</text></g>
+<g class="l" style="animation-delay:1.42s"><text x="392.0" y="76.2" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="76.2" class="i k" textLength="15.6" lengthAdjust="spacingAndGlyphs">OS</text><text x="423.2" y="76.2" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="438.8" y="76.2" class="i d" textLength="358.8" lengthAdjust="spacingAndGlyphs">..............................................</text><text x="805.4" y="76.2" class="i v" textLength="39.0" lengthAdjust="spacingAndGlyphs">macOS</text></g>
+<g class="l" style="animation-delay:1.49s"><text x="392.0" y="96.6" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="96.6" class="i k" textLength="46.8" lengthAdjust="spacingAndGlyphs">Uptime</text><text x="454.4" y="96.6" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="470.0" y="96.6" class="i d" textLength="163.8" lengthAdjust="spacingAndGlyphs">.....................</text><text x="641.6" y="96.6" class="i v" textLength="202.8" lengthAdjust="spacingAndGlyphs">5 years, 0 months, 13 days</text></g>
+<g class="l" style="animation-delay:1.56s"><text x="392.0" y="117.0" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="117.0" class="i k" textLength="23.4" lengthAdjust="spacingAndGlyphs">IDE</text><text x="431.0" y="117.0" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="446.6" y="117.0" class="i d" textLength="304.2" lengthAdjust="spacingAndGlyphs">.......................................</text><text x="758.6" y="117.0" class="i v" textLength="85.8" lengthAdjust="spacingAndGlyphs">Claude Code</text></g>
+<g class="l" style="animation-delay:1.63s"><text x="392.0" y="137.4" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="l" style="animation-delay:1.70s"><text x="392.0" y="157.8" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="157.8" class="i k" textLength="70.2" lengthAdjust="spacingAndGlyphs">Languages</text><text x="477.8" y="157.8" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="485.6" y="157.8" class="i k" textLength="85.8" lengthAdjust="spacingAndGlyphs">Programming</text><text x="571.4" y="157.8" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="587.0" y="157.8" class="i d" textLength="140.4" lengthAdjust="spacingAndGlyphs">..................</text><text x="735.2" y="157.8" class="i v" textLength="109.2" lengthAdjust="spacingAndGlyphs">TypeScript, C#</text></g>
+<g class="l" style="animation-delay:1.77s"><text x="392.0" y="178.2" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="178.2" class="i k" textLength="70.2" lengthAdjust="spacingAndGlyphs">Languages</text><text x="477.8" y="178.2" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="485.6" y="178.2" class="i k" textLength="31.2" lengthAdjust="spacingAndGlyphs">Real</text><text x="516.8" y="178.2" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="532.4" y="178.2" class="i d" textLength="241.8" lengthAdjust="spacingAndGlyphs">...............................</text><text x="782.0" y="178.2" class="i v" textLength="62.4" lengthAdjust="spacingAndGlyphs">Japanese</text></g>
+<g class="l" style="animation-delay:1.84s"><text x="392.0" y="198.6" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="l" style="animation-delay:1.91s"><text x="392.0" y="219.0" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="219.0" class="i k" textLength="39.0" lengthAdjust="spacingAndGlyphs">Stack</text><text x="446.6" y="219.0" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="454.4" y="219.0" class="i k" textLength="62.4" lengthAdjust="spacingAndGlyphs">Frontend</text><text x="516.8" y="219.0" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="532.4" y="219.0" class="i d" textLength="156.0" lengthAdjust="spacingAndGlyphs">....................</text><text x="696.2" y="219.0" class="i v" textLength="148.2" lengthAdjust="spacingAndGlyphs">React, Next.js, MUI</text></g>
+<g class="l" style="animation-delay:1.98s"><text x="392.0" y="239.4" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="239.4" class="i k" textLength="39.0" lengthAdjust="spacingAndGlyphs">Stack</text><text x="446.6" y="239.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="454.4" y="239.4" class="i k" textLength="54.6" lengthAdjust="spacingAndGlyphs">Backend</text><text x="509.0" y="239.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="524.6" y="239.4" class="i d" textLength="202.8" lengthAdjust="spacingAndGlyphs">..........................</text><text x="735.2" y="239.4" class="i v" textLength="109.2" lengthAdjust="spacingAndGlyphs">NestJS, Prisma</text></g>
+<g class="l" style="animation-delay:2.05s"><text x="392.0" y="259.8" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="259.8" class="i k" textLength="39.0" lengthAdjust="spacingAndGlyphs">Stack</text><text x="446.6" y="259.8" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="454.4" y="259.8" class="i k" textLength="62.4" lengthAdjust="spacingAndGlyphs">Database</text><text x="516.8" y="259.8" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="532.4" y="259.8" class="i d" textLength="171.6" lengthAdjust="spacingAndGlyphs">......................</text><text x="711.8" y="259.8" class="i v" textLength="132.6" lengthAdjust="spacingAndGlyphs">PostgreSQL, MySQL</text></g>
+<g class="l" style="animation-delay:2.12s"><text x="392.0" y="280.2" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="280.2" class="i k" textLength="39.0" lengthAdjust="spacingAndGlyphs">Stack</text><text x="446.6" y="280.2" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="454.4" y="280.2" class="i k" textLength="39.0" lengthAdjust="spacingAndGlyphs">Infra</text><text x="493.4" y="280.2" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="509.0" y="280.2" class="i d" textLength="179.4" lengthAdjust="spacingAndGlyphs">.......................</text><text x="696.2" y="280.2" class="i v" textLength="148.2" lengthAdjust="spacingAndGlyphs">AWS, Docker, Ubuntu</text></g>
+<g class="l" style="animation-delay:2.19s"><text x="392.0" y="300.6" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="l" style="animation-delay:2.26s"><text x="392.0" y="321.0" class="i t" textLength="78.0" lengthAdjust="spacingAndGlyphs">- Contact </text><text x="470.0" y="321.0" class="i d" textLength="374.4" lengthAdjust="spacingAndGlyphs">------------------------------------------------</text></g>
+<g class="l" style="animation-delay:2.33s"><text x="392.0" y="341.4" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="341.4" class="i k" textLength="46.8" lengthAdjust="spacingAndGlyphs">GitHub</text><text x="454.4" y="341.4" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="470.0" y="341.4" class="i d" textLength="288.6" lengthAdjust="spacingAndGlyphs">.....................................</text><text x="766.4" y="341.4" class="i v" textLength="78.0" lengthAdjust="spacingAndGlyphs">tukapipopi</text></g>
+<g class="l" style="animation-delay:2.40s"><text x="392.0" y="361.8" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="l" style="animation-delay:2.47s"><text x="392.0" y="382.2" class="i t" textLength="117.0" lengthAdjust="spacingAndGlyphs">- GitHub Stats </text><text x="509.0" y="382.2" class="i d" textLength="335.4" lengthAdjust="spacingAndGlyphs">-------------------------------------------</text></g>
+<g class="l" style="animation-delay:2.54s"><text x="392.0" y="402.6" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="402.6" class="i k" textLength="101.4" lengthAdjust="spacingAndGlyphs">Contributions</text><text x="509.0" y="402.6" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="524.6" y="402.6" class="i d" textLength="171.6" lengthAdjust="spacingAndGlyphs">......................</text><text x="704.0" y="402.6" class="i v" textLength="140.4" lengthAdjust="spacingAndGlyphs">1,500+ (last year)</text></g>
+<g class="l" style="animation-delay:2.61s"><text x="392.0" y="423.0" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text><text x="407.6" y="423.0" class="i k" textLength="93.6" lengthAdjust="spacingAndGlyphs">Member since</text><text x="501.2" y="423.0" class="i t" textLength="7.8" lengthAdjust="spacingAndGlyphs">:</text><text x="516.8" y="423.0" class="i d" textLength="257.4" lengthAdjust="spacingAndGlyphs">.................................</text><text x="782.0" y="423.0" class="i v" textLength="62.4" lengthAdjust="spacingAndGlyphs">Oct 2021</text></g>
+<g class="l" style="animation-delay:2.68s"><text x="392.0" y="443.4" class="i d" textLength="7.8" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="l" style="animation-delay:2.75s"><text x="392.0" y="463.8" class="i k" textLength="7.8" lengthAdjust="spacingAndGlyphs">&gt;</text><rect class="bl" x="407.6" y="452.8" width="7.8" height="14" fill="#a5d6ff"/></g>
 </svg>
